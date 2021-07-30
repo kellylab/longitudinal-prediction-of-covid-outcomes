@@ -1,0 +1,183 @@
+,key_raw,key_new
+0,Patient_study_ID,Patient_study_ID
+1,MRN,MRN
+2,Patient_study_ID_1,Patient_study_ID_1
+3,ICUdischargedate1,ICUdischargedate1
+4,neutadmdateac,neutadmdateac
+5,lymphpeakac,lymphpeakac
+6,altpeakac,altpeakac
+7,procaladmdateac,procaladmdateac
+8,il6initdateac,il6initdateac
+9,qsofaams,qsofaams
+10,qsofabp,qsofabp
+11,qsofarr,qsofarr
+12,qsofa,qsofa
+13,Date of Birth,dob
+14,Age,age
+15,Sex (Female=1. Male=0),sex
+16,"Ethnicity (1=""Hispanic/Latino"". 0= ""NOT hispanic/latino. . = unknown/missing)",hispanic
+17,Race (1=Black. 2=white. 3=other. = unknown/missing),race
+18,Place of residence (nursing home/assisted living = 1. home=0. 2=other. . = unknown),residence
+19,HCW (1=Y. 0=N. .=unknown),hcw
+20,Smoking- Former or current (0=No. 1= Yes. . unkn),smoker
+21,BMI,bmi
+22,Presentationdate1,presentation_date1
+23,Dischargedate1,discharge_date1
+24,Admissiondate2,admission_date2
+25,Dischargedate2,discharge_date2
+26,ICUadmissiondate1,icu_admission_date_1
+27,ICUadmissiondate2,icu_admission_date_2
+28,ICUdischargedate2,icu_discharge_date_2
+29,SARS-CoV-2collectiondate1,covid_collection_date_1
+30,SARS-CoV-2resultdate1,covid_result_date_1
+31,SARS-CoV-2collectiondate2,covid_collection_date_2
+32,SARS-CoV-2resultdate2,covid_result_date_2
+33,SARS-CoV-2collectiondate3,covid_collection_date_3
+34,SARS-CoV-2resultdate3,covid_result_date_3
+35,Intubationdate1,intubation_date_1
+36,Extubationdate1,extubation_date_1
+37,Intubationdate2,intubation_date_2
+38,Extubationdate2,extubation_date_2
+39,Deathdate,death_date
+40,wbcadmdateac,wbc_admission_date
+41,cradmdateac,creatinine_admission_date
+42,bunadmdateac,bun_admission_date
+43,astadmdateac,ast_admission_date
+44,ldhadmdateac,ldh_admission_date
+45,crpadmdateac,crp_admission_date
+46,ddimeradmdateac,ddimer_admission_date
+47,inradmdateac,inr_admission_date
+48,fibrinoaddatemac,fibrinogen_admission_date
+49,ferritadmdateac,ferritin_admission_date
+50,pttadmdateac,ptt_admission_date
+51,CD4date,cd4_date
+52,Admitted or Outpt/ED (outpatient=0. ED=1. admit=2),admission_level
+53,DischargeDispo1 (0=home. 1=nursing home/assisted living/rehab 2=deceased. 3=other. .=unknown),discharge_destination_1
+54,DischargeDispo2 (0=home. 1=nursing home/assisted living/rehab 2=deceased. 3=other. .=unknown),discharge_destination_2
+55,DaysOfSymptomsBefore1stAdmission (unknown .. otherwise number),days_of_symptoms_before_1st_admission
+56,stillinpatient,still_inpatient
+57,Fever (Yes=1. No=0. unknown=.),fever
+58,Cough,cough
+59,SOB,shortness_of_breath
+60,Fatigue,fatigue
+61,Sore throat,sore_throat
+62,Chills,chills
+63,Headache,headache
+64,Diarrhea,diarrhea
+65,Othersymptoms,other_symptoms
+66,Fever duration (days)- (>100.4 days),fever_duration
+67,TempF - initial temp (or date of test collection),initial_temp
+68,TempF - max temp during admission,max_temp_admission
+69,Systolic BP - first recorded,systolic_bp
+70,Diastolic BP - first recorded ,diastolic_bp
+71,RR - initial,initial_rr
+72,SaO2 (please write as NUMBER),o2_saturation
+73,Lung exam results (wheezing. rales.rhonchi. egophony),lung_exam
+74,Altered Mental Status (Yes=1. No=0. unknown=.),altered_mental_status
+75,Antipiretics- (Yes=1. No=0. unknown=.) ,antipyretics
+76,Received oral medications in first 24 hours (Yes=1. No=0. unknown = .),received_oral_meds_in_1st_24hr
+77,On oxygen at presentation (Yes=1. No=0. unknown=.),on_o2_at_presentation
+78,Intubations (0=No. 1=Yes. Unknown= 0),intubation
+79,Hi-flow (0=no. 1=yes. Unk= 0),hi_flow
+80,NonRebreather Mask (N=no. 1=yes. Unk= 0),non_rebreather_mask
+81,(CPAP/BPAP) (1/0),cpap_bpap
+82,nasal cannula (1/0),nasal_cannula
+83,AKI (Yes=1. No=0. unknown=.),aki
+84,Concurrent pathogen infection (describe in free text) (bacterial. viral. fungal. etc),concurrent_pathogen_infection
+85,Sepsis/septic shock?,sepsis
+86,Cardiogenic shock,cardiogenic_shock
+87,Myocarditis,myocarditis
+88,Cardiac arrest (Yes=1. No=0. unknown=.),cardiac_arrest
+89,ARDS (Yes=1.No=0. unknown=.),ards
+90,ECMO (Yes=1. No=0. unknown=.),ecmo
+91,Other Complications free text (stroke. heart failure. renal failure. pulmonary embolism. etc),other_complications
+92,readmission,readmission
+93,composite,composite
+94,death,death
+95,SARS-CoV-2finalresult1,covid_result_1
+96,SARS-CoV-2finalresult2,covid_result_2
+97,SARS-CoV-2finalresult3,covid_result_3
+98,Admission x-ray (paste text),admission_xray
+99,CXR-BilatOpacities,cxr_bilateral_opacities
+100,CXR-Interstitial,cxr_interstitial
+101,CXR-UnilatOpacities,cxr_unilateral_opacities
+102,POCUSlunginitial Free text,initial_lung_ultrasound
+103,POCUSheartinitial free text,initial_heart_ultrasound
+104,COPD (0=No. 1= Yes. 999=unknown),copd
+105,Asthma (0=No. 1= Yes. 999=unknown),asthma
+106, Hypertension(0=No. 1= Yes. .=Unknown),hypertension
+107,Diabetes (complicated by CKD. PVD. CHF/ischemic cardiomyopathy. OR uncomplicated)(0=No. 1= Yes. 999=Unknown),diabetes
+108,Pulmonary disease (COPD. asthma. emphysema. bronchiectasis. pulmonary hypertension)(0=No. 1= Yes. 999=Unknown),pulmonary_dx
+109, Heart disease (CAD. hx of CABG or PCI. CHF. AICD,heart_disease
+110,Malignancy  (within 2 years or receiving immunosuppressive treatment)(0=No. 1= Yes. 999=Unknown),malignancy
+111,Chronic kidney disease(0=No. 1= Yes. 999=Unknown),ckd
+112,HD (Yes=1. No=0. unknown=.),hd
+113,Immunocompromised state (eg: steroids. monoclonal antibod1 tx for asthma/RA. transplant)(0=No. 1= Yes. 999=Unknown),immunocompromised
+114,HIV(0=No. 1= Yes. 999=Unknown),hiv
+115,Other comorbidity(0=No. 1= Yes. 999=Unknown),other_comorbidity_bool
+116,Other comorbidity- free text,other_comorbidity
+117,ACE (1=yes. 0=no. .=unknown),ace
+118,ARB (1=yes. 0=no. .=unknown),arb
+119,Chloroquinedays,chloroquine_days
+120,Hydroxychloroquinedays,hydroxychloroquine_days
+121,Kaletra (Lopinavir/Ritonavir) days,kaletra_days
+122,Remdesivir-compastionate days,remdesivir_compassionate_days
+123,Remdesivir- clinical trial days,remdesivir_clinical_trial_days
+124,OtherTrial_free text,other_trial
+125,Pressors days,pressors_days
+126,pronation (Y=1. N=0. unknown=.) - search in notes,pronation_treament
+127,Other IV antibiotics (new columns?),other_iv_abx
+128,Azithromycindays,azithromycin_days
+129,Glucose-6 (Yes=1. No=0. missing/unknown=.),glucose_6
+130,Glucocorticoids_freetext,glucocorticoids
+131,NSAID (Yes=1. No=0. unknown=.),nsaid
+132,A1C%,aic
+133,CD4count_mostrecent,cd4_count_most_recent
+134,CD4%_mostrecent,cd4_percent_most_recent
+135,wbcadmac,wbcadmac
+136,wbcpeakac,wbcpeakac
+137,wbcnadirac,wbcnadirac
+138,crpeakac,crpeakac
+139,cradmac,cradmac
+140,bunadmac,bunadmac
+141,neutadmac,neutadmac
+142,neutnadirac,neutnadirac
+143,lymphadmac,lymphadmac
+144,lymphnadirac,lymphnadirac
+145,pltpeakac,pltpeakac
+146,pltnadirac,pltnadirac
+147,pltadmac,pltadmac
+148,astpeakac,astpeakac
+149,astadmac,astadmac
+150,altadmac,altadmac
+151,ldhpeakac,ldhpeakac
+152,ldhadmac,ldhadmac
+153,procalpeakac,procalpeakac
+154,procaladmac,procaladmac
+155,crppeakac,crppeakac
+156,crpadmac,crpadmac
+157,ddimeradmac,ddimeradmac
+158,ddimerpeakac,ddimerpeakac
+159,inradmac,inradmac
+160,inrpeakac,inrpeakac
+161,fibrinoadmac,fibrinoadmac
+162,fibrinopeakac,fibrinopeakac
+163,ferritadmac,ferritadmac
+164,ferritpeakac,ferritpeakac
+165,pttadmac,pttadmac
+166,pttpeakac,pttpeakac
+167,ptadmac,ptadmac
+168,ptpeakac,ptpeakac
+169,alkpadmac,alkpadmac
+170,alkppeakac,alkppeakac
+171,albadmac,albadmac
+172,il6initac,il6initac
+173,il6peakac,il6peakac
+174,eosadmac,eosadmac
+175,g6pd-def1-norml0-inter2,g6pd-def1-norml0-inter2
+176,bpsystac,bpsystac
+177,bpdiastac,bpdiastac
+178,tempinitac,tempinitac
+179,tempmaxac,tempmaxac
+180,rrinitac,rrinitac
+181,pulseoxinitac,pulseoxinitac
