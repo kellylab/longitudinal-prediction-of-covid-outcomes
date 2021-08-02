@@ -1,0 +1,270 @@
+Day:	0
+	Survival	Vs	Non-survival	->	pval: 0.17019577287495136
+		Survival: 21 instances
+		Non-survival: 4 instances
+###################################
+Day:	1
+	Survival	Vs	Non-survival	->	pval: 0.618468414787368
+		Survival: 29 instances
+		Non-survival: 9 instances
+###################################
+Day:	2
+	Survival	Vs	Non-survival	->	pval: 0.4497907613725075
+		Survival: 37 instances
+		Non-survival: 12 instances
+###################################
+Day:	3
+	Survival	Vs	Non-survival	->	pval: 0.5967114911991344
+		Survival: 47 instances
+		Non-survival: 16 instances
+###################################
+Day:	4
+	Survival	Vs	Non-survival	->	pval: 0.9481041213817996
+		Survival: 52 instances
+		Non-survival: 16 instances
+###################################
+Day:	5
+	Survival	Vs	Non-survival	->	pval: 0.08799169839338634
+		Survival: 65 instances
+		Non-survival: 24 instances
+###################################
+Day:	6
+	Survival	Vs	Non-survival	->	pval: 0.025647943798778366
+		Survival: 72 instances
+		Non-survival: 25 instances
+###################################
+Day:	7
+	Survival	Vs	Non-survival	->	pval: 0.03564537257134932
+		Survival: 76 instances
+		Non-survival: 30 instances
+###################################
+Day:	8
+	Survival	Vs	Non-survival	->	pval: 0.01174273896118314
+		Survival: 82 instances
+		Non-survival: 33 instances
+###################################
+Day:	9
+	Survival	Vs	Non-survival	->	pval: 0.0017923793175028775
+		Survival: 82 instances
+		Non-survival: 33 instances
+###################################
+Day:	10
+	Survival	Vs	Non-survival	->	pval: 6.947410186811681e-05
+		Survival: 83 instances
+		Non-survival: 33 instances
+###################################
+Day:	11
+	Survival	Vs	Non-survival	->	pval: 1.661461337494996e-05
+		Survival: 80 instances
+		Non-survival: 32 instances
+###################################
+Day:	12
+	Survival	Vs	Non-survival	->	pval: 1.3984877201355225e-06
+		Survival: 87 instances
+		Non-survival: 31 instances
+###################################
+Day:	13
+	Survival	Vs	Non-survival	->	pval: 1.7635241047790265e-06
+		Survival: 85 instances
+		Non-survival: 28 instances
+###################################
+Day:	14
+	Survival	Vs	Non-survival	->	pval: 1.4826466394506835e-06
+		Survival: 81 instances
+		Non-survival: 28 instances
+###################################
+Day:	15
+	Survival	Vs	Non-survival	->	pval: 1.2131137976284053e-06
+		Survival: 81 instances
+		Non-survival: 27 instances
+###################################
+Day:	16
+	Survival	Vs	Non-survival	->	pval: 1.7587141355945035e-07
+		Survival: 72 instances
+		Non-survival: 26 instances
+###################################
+Day:	17
+	Survival	Vs	Non-survival	->	pval: 9.706456675652183e-08
+		Survival: 61 instances
+		Non-survival: 26 instances
+###################################
+Day:	18
+	Survival	Vs	Non-survival	->	pval: 6.85414813854145e-07
+		Survival: 59 instances
+		Non-survival: 23 instances
+###################################
+Day:	19
+	Survival	Vs	Non-survival	->	pval: 3.6481860252351995e-06
+		Survival: 59 instances
+		Non-survival: 22 instances
+###################################
+Day:	20
+	Survival	Vs	Non-survival	->	pval: 6.672118664885481e-07
+		Survival: 53 instances
+		Non-survival: 23 instances
+###################################
+Day:	21
+	Survival	Vs	Non-survival	->	pval: 1.9670879387141757e-06
+		Survival: 46 instances
+		Non-survival: 18 instances
+###################################
+Day:	22
+	Survival	Vs	Non-survival	->	pval: 1.4616539998340863e-06
+		Survival: 44 instances
+		Non-survival: 18 instances
+###################################
+Day:	23
+	Survival	Vs	Non-survival	->	pval: 3.2645770429926942e-06
+		Survival: 38 instances
+		Non-survival: 14 instances
+###################################
+Day:	24
+	Survival	Vs	Non-survival	->	pval: 9.57275888971627e-06
+		Survival: 35 instances
+		Non-survival: 14 instances
+###################################
+Day:	25
+	Survival	Vs	Non-survival	->	pval: 1.9452040259284577e-05
+		Survival: 33 instances
+		Non-survival: 13 instances
+###################################
+Day:	26
+	Survival	Vs	Non-survival	->	pval: 3.616150332026608e-05
+		Survival: 31 instances
+		Non-survival: 12 instances
+###################################
+Day:	27
+	Survival	Vs	Non-survival	->	pval: 0.0002131321561373781
+		Survival: 27 instances
+		Non-survival: 11 instances
+###################################
+Day:	28
+	Survival	Vs	Non-survival	->	pval: 0.00044522603184007865
+		Survival: 23 instances
+		Non-survival: 12 instances
+###################################
+Day:	29
+	Survival	Vs	Non-survival	->	pval: 0.00015329316823346458
+		Survival: 22 instances
+		Non-survival: 12 instances
+###################################
+Day:	30
+	Survival	Vs	Non-survival	->	pval: 0.00012669055565755737
+		Survival: 19 instances
+		Non-survival: 11 instances
+###################################
+Day:	31
+	Survival	Vs	Non-survival	->	pval: 0.0005058519524067826
+		Survival: 14 instances
+		Non-survival: 11 instances
+###################################
+Day:	32
+	Survival	Vs	Non-survival	->	pval: 0.0004926506395228804
+		Survival: 14 instances
+		Non-survival: 10 instances
+###################################
+Day:	33
+	Survival	Vs	Non-survival	->	pval: 0.0022022199424970783
+		Survival: 10 instances
+		Non-survival: 10 instances
+###################################
+Day:	34
+	Survival	Vs	Non-survival	->	pval: 0.004848762721678938
+		Survival: 9 instances
+		Non-survival: 10 instances
+###################################
+Day:	35
+	Survival	Vs	Non-survival	->	pval: 0.0037184473287465544
+		Survival: 9 instances
+		Non-survival: 10 instances
+###################################
+Day:	36
+	Survival	Vs	Non-survival	->	pval: 0.008101464471419764
+		Survival: 8 instances
+		Non-survival: 9 instances
+###################################
+Day:	37
+	Survival	Vs	Non-survival	->	pval: 0.013449823497535717
+		Survival: 8 instances
+		Non-survival: 8 instances
+###################################
+Day:	38
+	Survival	Vs	Non-survival	->	pval: 0.020524463598227634
+		Survival: 8 instances
+		Non-survival: 7 instances
+###################################
+Day:	39
+	Survival	Vs	Non-survival	->	pval: 0.033788839383669556
+		Survival: 8 instances
+		Non-survival: 5 instances
+###################################
+Day:	40
+	Survival	Vs	Non-survival	->	pval: 0.039874788460701825
+		Survival: 8 instances
+		Non-survival: 5 instances
+###################################
+Day:	41
+	Survival	Vs	Non-survival	->	pval: 0.08752055807849202
+		Survival: 7 instances
+		Non-survival: 4 instances
+###################################
+Day:	42
+	Survival	Vs	Non-survival	->	pval: 0.02275164248760331
+		Survival: 7 instances
+		Non-survival: 5 instances
+###################################
+Day:	43
+	Survival	Vs	Non-survival	->	pval: 0.03576376659097789
+		Survival: 6 instances
+		Non-survival: 5 instances
+###################################
+Day:	44
+	Survival	Vs	Non-survival	->	pval: 0.10985524288571244
+		Survival: 4 instances
+		Non-survival: 5 instances
+###################################
+Day:	45
+	Survival	Vs	Non-survival	->	pval: 0.10985524288571244
+		Survival: 4 instances
+		Non-survival: 5 instances
+###################################
+Day:	46
+	Survival	Vs	Non-survival	->	pval: 0.11235119769046385
+		Survival: 4 instances
+		Non-survival: 4 instances
+###################################
+Day:	47
+	Survival	Vs	Non-survival	->	pval: 0.11161176829829224
+		Survival: 4 instances
+		Non-survival: 3 instances
+###################################
+Day:	49
+	Survival	Vs	Non-survival	->	pval: nan
+		Survival: 3 instances
+		Non-survival: 1 instances
+###################################
+Day:	52
+	Survival	Vs	Non-survival	->	pval: nan
+		Survival: 1 instances
+		Non-survival: 1 instances
+###################################
+Day:	54
+	Survival	Vs	Non-survival	->	pval: nan
+		Survival: 1 instances
+		Non-survival: 1 instances
+###################################
+Day:	56
+	Survival	Vs	Non-survival	->	pval: nan
+		Survival: 1 instances
+		Non-survival: 1 instances
+###################################
+Day:	57
+	Survival	Vs	Non-survival	->	pval: nan
+		Survival: 1 instances
+		Non-survival: 1 instances
+###################################
+Day:	60
+	Survival	Vs	Non-survival	->	pval: nan
+		Survival: 1 instances
+		Non-survival: 1 instances
+###################################

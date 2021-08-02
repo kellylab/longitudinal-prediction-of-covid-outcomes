@@ -1,0 +1,594 @@
+Day:	0
+	Hispanic	Vs	Non-hispanic	->	pval: 0.6395533866541891
+		Hispanic: 4 instances
+		Non-hispanic: 18 instances
+	Hispanic	Vs	Unknown	->	pval: 0.5958830905651777
+		Hispanic: 4 instances
+		Unknown: 3 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.3395291157150184
+		Non-hispanic: 18 instances
+		Unknown: 3 instances
+###################################
+Day:	1
+	Hispanic	Vs	Non-hispanic	->	pval: 0.14057444986677334
+		Hispanic: 8 instances
+		Non-hispanic: 27 instances
+	Hispanic	Vs	Unknown	->	pval: 0.7594628653799336
+		Hispanic: 8 instances
+		Unknown: 3 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.703659716539342
+		Non-hispanic: 27 instances
+		Unknown: 3 instances
+###################################
+Day:	2
+	Hispanic	Vs	Non-hispanic	->	pval: 0.034949246834384357
+		Hispanic: 14 instances
+		Non-hispanic: 31 instances
+	Hispanic	Vs	Unknown	->	pval: 0.12300736986908235
+		Hispanic: 14 instances
+		Unknown: 4 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.6782173706543895
+		Non-hispanic: 31 instances
+		Unknown: 4 instances
+###################################
+Day:	3
+	Hispanic	Vs	Non-hispanic	->	pval: 0.12258474042233329
+		Hispanic: 21 instances
+		Non-hispanic: 38 instances
+	Hispanic	Vs	Unknown	->	pval: 0.22103991157636094
+		Hispanic: 21 instances
+		Unknown: 4 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.8302906220074175
+		Non-hispanic: 38 instances
+		Unknown: 4 instances
+###################################
+Day:	4
+	Hispanic	Vs	Non-hispanic	->	pval: 0.10018485750566905
+		Hispanic: 24 instances
+		Non-hispanic: 40 instances
+	Hispanic	Vs	Unknown	->	pval: 0.21205907328704143
+		Hispanic: 24 instances
+		Unknown: 4 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.6979755439177132
+		Non-hispanic: 40 instances
+		Unknown: 4 instances
+###################################
+Day:	5
+	Hispanic	Vs	Non-hispanic	->	pval: 0.17228946324137762
+		Hispanic: 36 instances
+		Non-hispanic: 47 instances
+	Hispanic	Vs	Unknown	->	pval: 0.4609911305464479
+		Hispanic: 36 instances
+		Unknown: 6 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.8332146818043749
+		Non-hispanic: 47 instances
+		Unknown: 6 instances
+###################################
+Day:	6
+	Hispanic	Vs	Non-hispanic	->	pval: 0.3931913983008861
+		Hispanic: 38 instances
+		Non-hispanic: 52 instances
+	Hispanic	Vs	Unknown	->	pval: 0.7304002387317508
+		Hispanic: 38 instances
+		Unknown: 7 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.9812938170878908
+		Non-hispanic: 52 instances
+		Unknown: 7 instances
+###################################
+Day:	7
+	Hispanic	Vs	Non-hispanic	->	pval: 0.3062023927593578
+		Hispanic: 42 instances
+		Non-hispanic: 56 instances
+	Hispanic	Vs	Unknown	->	pval: 0.8322240534172899
+		Hispanic: 42 instances
+		Unknown: 8 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.8074914111452764
+		Non-hispanic: 56 instances
+		Unknown: 8 instances
+###################################
+Day:	8
+	Hispanic	Vs	Non-hispanic	->	pval: 0.1768163396753638
+		Hispanic: 45 instances
+		Non-hispanic: 62 instances
+	Hispanic	Vs	Unknown	->	pval: 0.7655623697774769
+		Hispanic: 45 instances
+		Unknown: 8 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.6116674079209511
+		Non-hispanic: 62 instances
+		Unknown: 8 instances
+###################################
+Day:	9
+	Hispanic	Vs	Non-hispanic	->	pval: 0.1765352105099146
+		Hispanic: 46 instances
+		Non-hispanic: 60 instances
+	Hispanic	Vs	Unknown	->	pval: 0.569428861768541
+		Hispanic: 46 instances
+		Unknown: 9 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.9148577728036156
+		Non-hispanic: 60 instances
+		Unknown: 9 instances
+###################################
+Day:	10
+	Hispanic	Vs	Non-hispanic	->	pval: 0.24408542709863146
+		Hispanic: 48 instances
+		Non-hispanic: 58 instances
+	Hispanic	Vs	Unknown	->	pval: 0.7653069996018447
+		Hispanic: 48 instances
+		Unknown: 10 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.8898073777534585
+		Non-hispanic: 58 instances
+		Unknown: 10 instances
+###################################
+Day:	11
+	Hispanic	Vs	Non-hispanic	->	pval: 0.26309212519516834
+		Hispanic: 47 instances
+		Non-hispanic: 56 instances
+	Hispanic	Vs	Unknown	->	pval: 0.8408311947632768
+		Hispanic: 47 instances
+		Unknown: 9 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.8419119688821011
+		Non-hispanic: 56 instances
+		Unknown: 9 instances
+###################################
+Day:	12
+	Hispanic	Vs	Non-hispanic	->	pval: 0.5184545324060711
+		Hispanic: 52 instances
+		Non-hispanic: 56 instances
+	Hispanic	Vs	Unknown	->	pval: 0.9618311064236237
+		Hispanic: 52 instances
+		Unknown: 10 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.7339706276438376
+		Non-hispanic: 56 instances
+		Unknown: 10 instances
+###################################
+Day:	13
+	Hispanic	Vs	Non-hispanic	->	pval: 0.7796414016755356
+		Hispanic: 50 instances
+		Non-hispanic: 54 instances
+	Hispanic	Vs	Unknown	->	pval: 0.7438031057254942
+		Hispanic: 50 instances
+		Unknown: 9 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.8983988018884252
+		Non-hispanic: 54 instances
+		Unknown: 9 instances
+###################################
+Day:	14
+	Hispanic	Vs	Non-hispanic	->	pval: 0.7691054438876863
+		Hispanic: 47 instances
+		Non-hispanic: 53 instances
+	Hispanic	Vs	Unknown	->	pval: 0.9821998298747262
+		Hispanic: 47 instances
+		Unknown: 9 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.9442339469173956
+		Non-hispanic: 53 instances
+		Unknown: 9 instances
+###################################
+Day:	15
+	Hispanic	Vs	Non-hispanic	->	pval: 0.7792328453927491
+		Hispanic: 47 instances
+		Non-hispanic: 52 instances
+	Hispanic	Vs	Unknown	->	pval: 0.99109875263016
+		Hispanic: 47 instances
+		Unknown: 9 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.9432478690051793
+		Non-hispanic: 52 instances
+		Unknown: 9 instances
+###################################
+Day:	16
+	Hispanic	Vs	Non-hispanic	->	pval: 0.8582192377092439
+		Hispanic: 45 instances
+		Non-hispanic: 46 instances
+	Hispanic	Vs	Unknown	->	pval: 0.6874657927825509
+		Hispanic: 45 instances
+		Unknown: 7 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.762541121464873
+		Non-hispanic: 46 instances
+		Unknown: 7 instances
+###################################
+Day:	17
+	Hispanic	Vs	Non-hispanic	->	pval: 0.6740070686608411
+		Hispanic: 42 instances
+		Non-hispanic: 39 instances
+	Hispanic	Vs	Unknown	->	pval: 0.8884093706853012
+		Hispanic: 42 instances
+		Unknown: 6 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.6521362763370762
+		Non-hispanic: 39 instances
+		Unknown: 6 instances
+###################################
+Day:	18
+	Hispanic	Vs	Non-hispanic	->	pval: 0.8150957256806048
+		Hispanic: 39 instances
+		Non-hispanic: 37 instances
+	Hispanic	Vs	Unknown	->	pval: 0.8805317298761155
+		Hispanic: 39 instances
+		Unknown: 6 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.7259437662476813
+		Non-hispanic: 37 instances
+		Unknown: 6 instances
+###################################
+Day:	19
+	Hispanic	Vs	Non-hispanic	->	pval: 0.7430853547486891
+		Hispanic: 40 instances
+		Non-hispanic: 36 instances
+	Hispanic	Vs	Unknown	->	pval: 0.6257571776827882
+		Hispanic: 40 instances
+		Unknown: 5 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.8420142701267039
+		Non-hispanic: 36 instances
+		Unknown: 5 instances
+###################################
+Day:	20
+	Hispanic	Vs	Non-hispanic	->	pval: 0.2715403941233626
+		Hispanic: 37 instances
+		Non-hispanic: 34 instances
+	Hispanic	Vs	Unknown	->	pval: 0.6410296793600962
+		Hispanic: 37 instances
+		Unknown: 5 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.8335269274315831
+		Non-hispanic: 34 instances
+		Unknown: 5 instances
+###################################
+Day:	21
+	Hispanic	Vs	Non-hispanic	->	pval: 0.3056085533764127
+		Hispanic: 30 instances
+		Non-hispanic: 31 instances
+	Hispanic	Vs	Unknown	->	pval: 0.5944014552456813
+		Hispanic: 30 instances
+		Unknown: 3 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.9757790231539756
+		Non-hispanic: 31 instances
+		Unknown: 3 instances
+###################################
+Day:	22
+	Hispanic	Vs	Non-hispanic	->	pval: 0.3668582112767995
+		Hispanic: 30 instances
+		Non-hispanic: 29 instances
+	Hispanic	Vs	Unknown	->	pval: 0.9500421493663084
+		Hispanic: 30 instances
+		Unknown: 3 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.7959047729460464
+		Non-hispanic: 29 instances
+		Unknown: 3 instances
+###################################
+Day:	23
+	Hispanic	Vs	Non-hispanic	->	pval: 0.4471270633019955
+		Hispanic: 24 instances
+		Non-hispanic: 25 instances
+	Hispanic	Vs	Unknown	->	pval: 0.9692285668393378
+		Hispanic: 24 instances
+		Unknown: 3 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.6555718447820891
+		Non-hispanic: 25 instances
+		Unknown: 3 instances
+###################################
+Day:	24
+	Hispanic	Vs	Non-hispanic	->	pval: 0.5380421963414568
+		Hispanic: 22 instances
+		Non-hispanic: 24 instances
+	Hispanic	Vs	Unknown	->	pval: 0.9666484886453913
+		Hispanic: 22 instances
+		Unknown: 3 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.6713220917153243
+		Non-hispanic: 24 instances
+		Unknown: 3 instances
+###################################
+Day:	25
+	Hispanic	Vs	Non-hispanic	->	pval: 0.8458042609053307
+		Hispanic: 21 instances
+		Non-hispanic: 22 instances
+	Hispanic	Vs	Unknown	->	pval: 0.9304281754310397
+		Hispanic: 21 instances
+		Unknown: 3 instances
+	Non-hispanic	Vs	Unknown	->	pval: 0.7064718485712691
+		Non-hispanic: 22 instances
+		Unknown: 3 instances
+###################################
+Day:	26
+	Hispanic	Vs	Non-hispanic	->	pval: 0.5058250349208431
+		Hispanic: 21 instances
+		Non-hispanic: 20 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 21 instances
+		Unknown: 2 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 20 instances
+		Unknown: 2 instances
+###################################
+Day:	27
+	Hispanic	Vs	Non-hispanic	->	pval: 0.21825607824249071
+		Hispanic: 19 instances
+		Non-hispanic: 18 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 19 instances
+		Unknown: 1 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 18 instances
+		Unknown: 1 instances
+###################################
+Day:	28
+	Hispanic	Vs	Non-hispanic	->	pval: 0.22027641013606736
+		Hispanic: 19 instances
+		Non-hispanic: 16 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 19 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 16 instances
+		Unknown: 0 instances
+###################################
+Day:	29
+	Hispanic	Vs	Non-hispanic	->	pval: 0.36945393208659405
+		Hispanic: 18 instances
+		Non-hispanic: 16 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 18 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 16 instances
+		Unknown: 0 instances
+###################################
+Day:	30
+	Hispanic	Vs	Non-hispanic	->	pval: 0.3282917084575846
+		Hispanic: 16 instances
+		Non-hispanic: 14 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 16 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 14 instances
+		Unknown: 0 instances
+###################################
+Day:	31
+	Hispanic	Vs	Non-hispanic	->	pval: 0.17967188876323448
+		Hispanic: 14 instances
+		Non-hispanic: 11 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 14 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 11 instances
+		Unknown: 0 instances
+###################################
+Day:	32
+	Hispanic	Vs	Non-hispanic	->	pval: 0.1779689714917505
+		Hispanic: 14 instances
+		Non-hispanic: 10 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 14 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 10 instances
+		Unknown: 0 instances
+###################################
+Day:	33
+	Hispanic	Vs	Non-hispanic	->	pval: 0.20301710604921364
+		Hispanic: 12 instances
+		Non-hispanic: 8 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 12 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 8 instances
+		Unknown: 0 instances
+###################################
+Day:	34
+	Hispanic	Vs	Non-hispanic	->	pval: 0.0692046124136577
+		Hispanic: 12 instances
+		Non-hispanic: 7 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 12 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 7 instances
+		Unknown: 0 instances
+###################################
+Day:	35
+	Hispanic	Vs	Non-hispanic	->	pval: 0.0756698359497747
+		Hispanic: 12 instances
+		Non-hispanic: 7 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 12 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 7 instances
+		Unknown: 0 instances
+###################################
+Day:	36
+	Hispanic	Vs	Non-hispanic	->	pval: 0.26817863879881465
+		Hispanic: 9 instances
+		Non-hispanic: 8 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 9 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 8 instances
+		Unknown: 0 instances
+###################################
+Day:	37
+	Hispanic	Vs	Non-hispanic	->	pval: 0.2929106367891793
+		Hispanic: 8 instances
+		Non-hispanic: 8 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 8 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 8 instances
+		Unknown: 0 instances
+###################################
+Day:	38
+	Hispanic	Vs	Non-hispanic	->	pval: 0.5240789974851849
+		Hispanic: 8 instances
+		Non-hispanic: 7 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 8 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 7 instances
+		Unknown: 0 instances
+###################################
+Day:	39
+	Hispanic	Vs	Non-hispanic	->	pval: 0.9416529301610359
+		Hispanic: 8 instances
+		Non-hispanic: 5 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 8 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 5 instances
+		Unknown: 0 instances
+###################################
+Day:	40
+	Hispanic	Vs	Non-hispanic	->	pval: 1.0
+		Hispanic: 8 instances
+		Non-hispanic: 5 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 8 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 5 instances
+		Unknown: 0 instances
+###################################
+Day:	41
+	Hispanic	Vs	Non-hispanic	->	pval: 0.8375265315413727
+		Hispanic: 8 instances
+		Non-hispanic: 3 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 8 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 3 instances
+		Unknown: 0 instances
+###################################
+Day:	42
+	Hispanic	Vs	Non-hispanic	->	pval: 0.8649006171360114
+		Hispanic: 8 instances
+		Non-hispanic: 4 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 8 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 4 instances
+		Unknown: 0 instances
+###################################
+Day:	43
+	Hispanic	Vs	Non-hispanic	->	pval: 0.9247190374867695
+		Hispanic: 7 instances
+		Non-hispanic: 4 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 7 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 4 instances
+		Unknown: 0 instances
+###################################
+Day:	44
+	Hispanic	Vs	Non-hispanic	->	pval: 0.6973336740469912
+		Hispanic: 6 instances
+		Non-hispanic: 3 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 6 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 3 instances
+		Unknown: 0 instances
+###################################
+Day:	45
+	Hispanic	Vs	Non-hispanic	->	pval: nan
+		Hispanic: 7 instances
+		Non-hispanic: 2 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 7 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 2 instances
+		Unknown: 0 instances
+###################################
+Day:	46
+	Hispanic	Vs	Non-hispanic	->	pval: nan
+		Hispanic: 6 instances
+		Non-hispanic: 2 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 6 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 2 instances
+		Unknown: 0 instances
+###################################
+Day:	47
+	Hispanic	Vs	Non-hispanic	->	pval: nan
+		Hispanic: 5 instances
+		Non-hispanic: 2 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 5 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 2 instances
+		Unknown: 0 instances
+###################################
+Day:	49
+	Hispanic	Vs	Non-hispanic	->	pval: nan
+		Hispanic: 3 instances
+		Non-hispanic: 1 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 3 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 1 instances
+		Unknown: 0 instances
+###################################
+Day:	52
+	Hispanic	Vs	Non-hispanic	->	pval: nan
+		Hispanic: 1 instances
+		Non-hispanic: 1 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 1 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 1 instances
+		Unknown: 0 instances
+###################################
+Day:	54
+	Hispanic	Vs	Non-hispanic	->	pval: nan
+		Hispanic: 1 instances
+		Non-hispanic: 1 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 1 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 1 instances
+		Unknown: 0 instances
+###################################
+Day:	56
+	Hispanic	Vs	Non-hispanic	->	pval: nan
+		Hispanic: 1 instances
+		Non-hispanic: 1 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 1 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 1 instances
+		Unknown: 0 instances
+###################################
+Day:	57
+	Hispanic	Vs	Non-hispanic	->	pval: nan
+		Hispanic: 1 instances
+		Non-hispanic: 1 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 1 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 1 instances
+		Unknown: 0 instances
+###################################
+Day:	60
+	Hispanic	Vs	Non-hispanic	->	pval: nan
+		Hispanic: 1 instances
+		Non-hispanic: 1 instances
+	Hispanic	Vs	Unknown	->	pval: nan
+		Hispanic: 1 instances
+		Unknown: 0 instances
+	Non-hispanic	Vs	Unknown	->	pval: nan
+		Non-hispanic: 1 instances
+		Unknown: 0 instances
+###################################

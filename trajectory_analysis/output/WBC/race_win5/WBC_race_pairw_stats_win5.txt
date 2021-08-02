@@ -1,0 +1,594 @@
+Day:	0
+	Black	Vs	White	->	pval: 0.6127962649447665
+		Black: 12 instances
+		White: 3 instances
+	Black	Vs	Other	->	pval: 0.5618428204248536
+		Black: 12 instances
+		Other: 5 instances
+	White	Vs	Other	->	pval: 0.23024335057740708
+		White: 3 instances
+		Other: 5 instances
+###################################
+Day:	1
+	Black	Vs	White	->	pval: 0.4783465495090512
+		Black: 18 instances
+		White: 5 instances
+	Black	Vs	Other	->	pval: 0.04922853448377235
+		Black: 18 instances
+		Other: 10 instances
+	White	Vs	Other	->	pval: 0.023341171265935837
+		White: 5 instances
+		Other: 10 instances
+###################################
+Day:	2
+	Black	Vs	White	->	pval: 0.07518414340192073
+		Black: 21 instances
+		White: 6 instances
+	Black	Vs	Other	->	pval: 0.2006170847670954
+		Black: 21 instances
+		Other: 14 instances
+	White	Vs	Other	->	pval: 0.013312838867930459
+		White: 6 instances
+		Other: 14 instances
+###################################
+Day:	3
+	Black	Vs	White	->	pval: 0.09410106523754842
+		Black: 28 instances
+		White: 10 instances
+	Black	Vs	Other	->	pval: 0.12868695310437644
+		Black: 28 instances
+		Other: 18 instances
+	White	Vs	Other	->	pval: 0.012647262803751221
+		White: 10 instances
+		Other: 18 instances
+###################################
+Day:	4
+	Black	Vs	White	->	pval: 0.09213832303750563
+		Black: 31 instances
+		White: 9 instances
+	Black	Vs	Other	->	pval: 0.07392355496443744
+		Black: 31 instances
+		Other: 22 instances
+	White	Vs	Other	->	pval: 0.006528914743482244
+		White: 9 instances
+		Other: 22 instances
+###################################
+Day:	5
+	Black	Vs	White	->	pval: 0.1478233423258785
+		Black: 37 instances
+		White: 11 instances
+	Black	Vs	Other	->	pval: 0.09923363511945407
+		Black: 37 instances
+		Other: 32 instances
+	White	Vs	Other	->	pval: 0.014864478837533305
+		White: 11 instances
+		Other: 32 instances
+###################################
+Day:	6
+	Black	Vs	White	->	pval: 0.13129295277817798
+		Black: 41 instances
+		White: 12 instances
+	Black	Vs	Other	->	pval: 0.02120698965805524
+		Black: 41 instances
+		Other: 34 instances
+	White	Vs	Other	->	pval: 0.0030322972582784353
+		White: 12 instances
+		Other: 34 instances
+###################################
+Day:	7
+	Black	Vs	White	->	pval: 0.4370810833541112
+		Black: 41 instances
+		White: 15 instances
+	Black	Vs	Other	->	pval: 0.0016768621553533097
+		Black: 41 instances
+		Other: 37 instances
+	White	Vs	Other	->	pval: 0.005831100068473854
+		White: 15 instances
+		Other: 37 instances
+###################################
+Day:	8
+	Black	Vs	White	->	pval: 0.35910260836248753
+		Black: 46 instances
+		White: 16 instances
+	Black	Vs	Other	->	pval: 0.0017985633405565413
+		Black: 46 instances
+		Other: 40 instances
+	White	Vs	Other	->	pval: 0.006697674901216655
+		White: 16 instances
+		Other: 40 instances
+###################################
+Day:	9
+	Black	Vs	White	->	pval: 0.5383774326682171
+		Black: 43 instances
+		White: 17 instances
+	Black	Vs	Other	->	pval: 0.004033680398507785
+		Black: 43 instances
+		Other: 40 instances
+	White	Vs	Other	->	pval: 0.007224490459721852
+		White: 17 instances
+		Other: 40 instances
+###################################
+Day:	10
+	Black	Vs	White	->	pval: 0.9353473094715329
+		Black: 40 instances
+		White: 19 instances
+	Black	Vs	Other	->	pval: 0.0009481208968113631
+		Black: 40 instances
+		Other: 40 instances
+	White	Vs	Other	->	pval: 0.008998571683850373
+		White: 19 instances
+		Other: 40 instances
+###################################
+Day:	11
+	Black	Vs	White	->	pval: 0.8258092634734754
+		Black: 38 instances
+		White: 19 instances
+	Black	Vs	Other	->	pval: 0.00632137344063595
+		Black: 38 instances
+		Other: 39 instances
+	White	Vs	Other	->	pval: 0.013564762267816874
+		White: 19 instances
+		Other: 39 instances
+###################################
+Day:	12
+	Black	Vs	White	->	pval: 0.8409636014142928
+		Black: 37 instances
+		White: 20 instances
+	Black	Vs	Other	->	pval: 0.003484588716976159
+		Black: 37 instances
+		Other: 45 instances
+	White	Vs	Other	->	pval: 0.009100129526798305
+		White: 20 instances
+		Other: 45 instances
+###################################
+Day:	13
+	Black	Vs	White	->	pval: 0.7928100258610662
+		Black: 35 instances
+		White: 19 instances
+	Black	Vs	Other	->	pval: 0.004986039405568095
+		Black: 35 instances
+		Other: 45 instances
+	White	Vs	Other	->	pval: 0.04256650062217795
+		White: 19 instances
+		Other: 45 instances
+###################################
+Day:	14
+	Black	Vs	White	->	pval: 0.7227007169675721
+		Black: 33 instances
+		White: 18 instances
+	Black	Vs	Other	->	pval: 0.0265269843507598
+		Black: 33 instances
+		Other: 44 instances
+	White	Vs	Other	->	pval: 0.14703179094242694
+		White: 18 instances
+		Other: 44 instances
+###################################
+Day:	15
+	Black	Vs	White	->	pval: 1.0
+		Black: 30 instances
+		White: 18 instances
+	Black	Vs	Other	->	pval: 0.08586864702288205
+		Black: 30 instances
+		Other: 44 instances
+	White	Vs	Other	->	pval: 0.1698598310880477
+		White: 18 instances
+		Other: 44 instances
+###################################
+Day:	16
+	Black	Vs	White	->	pval: 0.9719848336956215
+		Black: 28 instances
+		White: 17 instances
+	Black	Vs	Other	->	pval: 0.35241409031354964
+		Black: 28 instances
+		Other: 44 instances
+	White	Vs	Other	->	pval: 0.3146760765714419
+		White: 17 instances
+		Other: 44 instances
+###################################
+Day:	17
+	Black	Vs	White	->	pval: 0.890261987418062
+		Black: 21 instances
+		White: 16 instances
+	Black	Vs	Other	->	pval: 0.8553698982791663
+		Black: 21 instances
+		Other: 42 instances
+	White	Vs	Other	->	pval: 0.8687206040912236
+		White: 16 instances
+		Other: 42 instances
+###################################
+Day:	18
+	Black	Vs	White	->	pval: 0.5347334102789811
+		Black: 20 instances
+		White: 16 instances
+	Black	Vs	Other	->	pval: 0.681503465570364
+		Black: 20 instances
+		Other: 36 instances
+	White	Vs	Other	->	pval: 0.8119348352734108
+		White: 16 instances
+		Other: 36 instances
+###################################
+Day:	19
+	Black	Vs	White	->	pval: 0.7263532696568078
+		Black: 20 instances
+		White: 14 instances
+	Black	Vs	Other	->	pval: 0.8829351057157931
+		Black: 20 instances
+		Other: 38 instances
+	White	Vs	Other	->	pval: 1.0
+		White: 14 instances
+		Other: 38 instances
+###################################
+Day:	20
+	Black	Vs	White	->	pval: 0.7588773816484746
+		Black: 19 instances
+		White: 13 instances
+	Black	Vs	Other	->	pval: 0.9172936549210775
+		Black: 19 instances
+		Other: 37 instances
+	White	Vs	Other	->	pval: 0.6662286884779575
+		White: 13 instances
+		Other: 37 instances
+###################################
+Day:	21
+	Black	Vs	White	->	pval: 0.6693459389047487
+		Black: 18 instances
+		White: 11 instances
+	Black	Vs	Other	->	pval: 0.9490583002650473
+		Black: 18 instances
+		Other: 30 instances
+	White	Vs	Other	->	pval: 0.4800330629643902
+		White: 11 instances
+		Other: 30 instances
+###################################
+Day:	22
+	Black	Vs	White	->	pval: 0.5467897261771015
+		Black: 19 instances
+		White: 11 instances
+	Black	Vs	Other	->	pval: 0.6411353098621819
+		Black: 19 instances
+		Other: 28 instances
+	White	Vs	Other	->	pval: 0.5222654123553863
+		White: 11 instances
+		Other: 28 instances
+###################################
+Day:	23
+	Black	Vs	White	->	pval: 0.39708278992643087
+		Black: 17 instances
+		White: 11 instances
+	Black	Vs	Other	->	pval: 0.5971730456989892
+		Black: 17 instances
+		Other: 21 instances
+	White	Vs	Other	->	pval: 0.7508900097545468
+		White: 11 instances
+		Other: 21 instances
+###################################
+Day:	24
+	Black	Vs	White	->	pval: 0.5202299024735655
+		Black: 16 instances
+		White: 8 instances
+	Black	Vs	Other	->	pval: 0.3988668233382736
+		Black: 16 instances
+		Other: 20 instances
+	White	Vs	Other	->	pval: 0.8988320409577378
+		White: 8 instances
+		Other: 20 instances
+###################################
+Day:	25
+	Black	Vs	White	->	pval: 0.9184332615279537
+		Black: 14 instances
+		White: 8 instances
+	Black	Vs	Other	->	pval: 0.5723127312299627
+		Black: 14 instances
+		Other: 19 instances
+	White	Vs	Other	->	pval: 0.9576462313958587
+		White: 8 instances
+		Other: 19 instances
+###################################
+Day:	26
+	Black	Vs	White	->	pval: 0.3653284403654673
+		Black: 13 instances
+		White: 8 instances
+	Black	Vs	Other	->	pval: 0.28875852106681443
+		Black: 13 instances
+		Other: 18 instances
+	White	Vs	Other	->	pval: 0.9778393898870401
+		White: 8 instances
+		Other: 18 instances
+###################################
+Day:	27
+	Black	Vs	White	->	pval: 0.42203453491312726
+		Black: 12 instances
+		White: 7 instances
+	Black	Vs	Other	->	pval: 0.24567703045020373
+		Black: 12 instances
+		Other: 16 instances
+	White	Vs	Other	->	pval: 1.0
+		White: 7 instances
+		Other: 16 instances
+###################################
+Day:	28
+	Black	Vs	White	->	pval: 0.14503225357868216
+		Black: 11 instances
+		White: 6 instances
+	Black	Vs	Other	->	pval: 0.28864033530951505
+		Black: 11 instances
+		Other: 16 instances
+	White	Vs	Other	->	pval: 0.7679552562836077
+		White: 6 instances
+		Other: 16 instances
+###################################
+Day:	29
+	Black	Vs	White	->	pval: 0.33521699339554245
+		Black: 11 instances
+		White: 5 instances
+	Black	Vs	Other	->	pval: 0.40631330215979156
+		Black: 11 instances
+		Other: 15 instances
+	White	Vs	Other	->	pval: 0.8614141344963563
+		White: 5 instances
+		Other: 15 instances
+###################################
+Day:	30
+	Black	Vs	White	->	pval: 0.6252291372610146
+		Black: 10 instances
+		White: 6 instances
+	Black	Vs	Other	->	pval: 0.19838894102890503
+		Black: 10 instances
+		Other: 12 instances
+	White	Vs	Other	->	pval: 0.28144734896695256
+		White: 6 instances
+		Other: 12 instances
+###################################
+Day:	31
+	Black	Vs	White	->	pval: 0.5100675275575344
+		Black: 8 instances
+		White: 5 instances
+	Black	Vs	Other	->	pval: 0.10736303897847294
+		Black: 8 instances
+		Other: 11 instances
+	White	Vs	Other	->	pval: 0.30792098947955737
+		White: 5 instances
+		Other: 11 instances
+###################################
+Day:	32
+	Black	Vs	White	->	pval: 0.9323243733483333
+		Black: 8 instances
+		White: 4 instances
+	Black	Vs	Other	->	pval: 0.12661505579296953
+		Black: 8 instances
+		Other: 11 instances
+	White	Vs	Other	->	pval: 0.0779787345010902
+		White: 4 instances
+		Other: 11 instances
+###################################
+Day:	33
+	Black	Vs	White	->	pval: 0.8197075378297883
+		Black: 7 instances
+		White: 3 instances
+	Black	Vs	Other	->	pval: 0.07100974454130012
+		Black: 7 instances
+		Other: 10 instances
+	White	Vs	Other	->	pval: 0.10831938073000408
+		White: 3 instances
+		Other: 10 instances
+###################################
+Day:	34
+	Black	Vs	White	->	pval: 0.6985353583033387
+		Black: 6 instances
+		White: 3 instances
+	Black	Vs	Other	->	pval: 0.07350596825708798
+		Black: 6 instances
+		Other: 10 instances
+	White	Vs	Other	->	pval: 0.20489389381637868
+		White: 3 instances
+		Other: 10 instances
+###################################
+Day:	35
+	Black	Vs	White	->	pval: 0.6985353583033387
+		Black: 6 instances
+		White: 3 instances
+	Black	Vs	Other	->	pval: 0.09272192830739198
+		Black: 6 instances
+		Other: 10 instances
+	White	Vs	Other	->	pval: 0.35254213749971297
+		White: 3 instances
+		Other: 10 instances
+###################################
+Day:	36
+	Black	Vs	White	->	pval: 0.648503379652976
+		Black: 7 instances
+		White: 3 instances
+	Black	Vs	Other	->	pval: 0.05619711191879385
+		Black: 7 instances
+		Other: 8 instances
+	White	Vs	Other	->	pval: 0.2615722360139493
+		White: 3 instances
+		Other: 8 instances
+###################################
+Day:	37
+	Black	Vs	White	->	pval: 0.648503379652976
+		Black: 7 instances
+		White: 3 instances
+	Black	Vs	Other	->	pval: 0.09669756761763616
+		Black: 7 instances
+		Other: 7 instances
+	White	Vs	Other	->	pval: 0.3619347669211923
+		White: 3 instances
+		Other: 7 instances
+###################################
+Day:	38
+	Black	Vs	White	->	pval: nan
+		Black: 6 instances
+		White: 2 instances
+	Black	Vs	Other	->	pval: 0.22463863892378044
+		Black: 6 instances
+		Other: 7 instances
+	White	Vs	Other	->	pval: nan
+		White: 2 instances
+		Other: 7 instances
+###################################
+Day:	39
+	Black	Vs	White	->	pval: nan
+		Black: 4 instances
+		White: 2 instances
+	Black	Vs	Other	->	pval: 0.02975806743519917
+		Black: 4 instances
+		Other: 7 instances
+	White	Vs	Other	->	pval: nan
+		White: 2 instances
+		Other: 7 instances
+###################################
+Day:	40
+	Black	Vs	White	->	pval: nan
+		Black: 4 instances
+		White: 2 instances
+	Black	Vs	Other	->	pval: 0.04282560923089135
+		Black: 4 instances
+		Other: 6 instances
+	White	Vs	Other	->	pval: nan
+		White: 2 instances
+		Other: 6 instances
+###################################
+Day:	41
+	Black	Vs	White	->	pval: nan
+		Black: 2 instances
+		White: 2 instances
+	Black	Vs	Other	->	pval: nan
+		Black: 2 instances
+		Other: 6 instances
+	White	Vs	Other	->	pval: nan
+		White: 2 instances
+		Other: 6 instances
+###################################
+Day:	42
+	Black	Vs	White	->	pval: nan
+		Black: 3 instances
+		White: 1 instances
+	Black	Vs	Other	->	pval: 0.02224549733469189
+		Black: 3 instances
+		Other: 7 instances
+	White	Vs	Other	->	pval: nan
+		White: 1 instances
+		Other: 7 instances
+###################################
+Day:	43
+	Black	Vs	White	->	pval: nan
+		Black: 3 instances
+		White: 1 instances
+	Black	Vs	Other	->	pval: 0.028185802147907384
+		Black: 3 instances
+		Other: 6 instances
+	White	Vs	Other	->	pval: nan
+		White: 1 instances
+		Other: 6 instances
+###################################
+Day:	44
+	Black	Vs	White	->	pval: nan
+		Black: 2 instances
+		White: 1 instances
+	Black	Vs	Other	->	pval: nan
+		Black: 2 instances
+		Other: 5 instances
+	White	Vs	Other	->	pval: nan
+		White: 1 instances
+		Other: 5 instances
+###################################
+Day:	45
+	Black	Vs	White	->	pval: nan
+		Black: 1 instances
+		White: 1 instances
+	Black	Vs	Other	->	pval: nan
+		Black: 1 instances
+		Other: 6 instances
+	White	Vs	Other	->	pval: nan
+		White: 1 instances
+		Other: 6 instances
+###################################
+Day:	46
+	Black	Vs	White	->	pval: nan
+		Black: 1 instances
+		White: 1 instances
+	Black	Vs	Other	->	pval: nan
+		Black: 1 instances
+		Other: 6 instances
+	White	Vs	Other	->	pval: nan
+		White: 1 instances
+		Other: 6 instances
+###################################
+Day:	47
+	Black	Vs	White	->	pval: nan
+		Black: 1 instances
+		White: 1 instances
+	Black	Vs	Other	->	pval: nan
+		Black: 1 instances
+		Other: 5 instances
+	White	Vs	Other	->	pval: nan
+		White: 1 instances
+		Other: 5 instances
+###################################
+Day:	49
+	Black	Vs	White	->	pval: nan
+		Black: 0 instances
+		White: 1 instances
+	Black	Vs	Other	->	pval: nan
+		Black: 0 instances
+		Other: 2 instances
+	White	Vs	Other	->	pval: nan
+		White: 1 instances
+		Other: 2 instances
+###################################
+Day:	52
+	Black	Vs	White	->	pval: nan
+		Black: 0 instances
+		White: 1 instances
+	Black	Vs	Other	->	pval: nan
+		Black: 0 instances
+		Other: 1 instances
+	White	Vs	Other	->	pval: nan
+		White: 1 instances
+		Other: 1 instances
+###################################
+Day:	54
+	Black	Vs	White	->	pval: nan
+		Black: 0 instances
+		White: 1 instances
+	Black	Vs	Other	->	pval: nan
+		Black: 0 instances
+		Other: 1 instances
+	White	Vs	Other	->	pval: nan
+		White: 1 instances
+		Other: 1 instances
+###################################
+Day:	56
+	Black	Vs	White	->	pval: nan
+		Black: 0 instances
+		White: 1 instances
+	Black	Vs	Other	->	pval: nan
+		Black: 0 instances
+		Other: 1 instances
+	White	Vs	Other	->	pval: nan
+		White: 1 instances
+		Other: 1 instances
+###################################
+Day:	57
+	Black	Vs	White	->	pval: nan
+		Black: 0 instances
+		White: 1 instances
+	Black	Vs	Other	->	pval: nan
+		Black: 0 instances
+		Other: 1 instances
+	White	Vs	Other	->	pval: nan
+		White: 1 instances
+		Other: 1 instances
+###################################
+Day:	60
+	Black	Vs	White	->	pval: nan
+		Black: 0 instances
+		White: 1 instances
+	Black	Vs	Other	->	pval: nan
+		Black: 0 instances
+		Other: 1 instances
+	White	Vs	Other	->	pval: nan
+		White: 1 instances
+		Other: 1 instances
+###################################

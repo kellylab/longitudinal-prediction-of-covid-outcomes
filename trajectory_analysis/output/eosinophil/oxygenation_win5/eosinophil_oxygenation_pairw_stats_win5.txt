@@ -1,0 +1,3510 @@
+Day:	0
+	Room air	Vs	Nasal canula	->	pval: 0.7914934033906587
+		Room air: 4 instances
+		Nasal canula: 9 instances
+	Room air	Vs	NRM	->	pval: 0.2702893848016986
+		Room air: 4 instances
+		NRM: 3 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 4 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: 0.2702893848016986
+		Room air: 4 instances
+		HiFlow: 3 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 4 instances
+		Intubation: 2 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 4 instances
+		Non-survival: 2 instances
+	Nasal canula	Vs	NRM	->	pval: 0.3301911186033427
+		Nasal canula: 9 instances
+		NRM: 3 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 9 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.3301911186033427
+		Nasal canula: 9 instances
+		HiFlow: 3 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 9 instances
+		Intubation: 2 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 9 instances
+		Non-survival: 2 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 3 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 3 instances
+		HiFlow: 3 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 3 instances
+		Intubation: 2 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 3 instances
+		Non-survival: 2 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 3 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 2 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 2 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 3 instances
+		Intubation: 2 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 3 instances
+		Non-survival: 2 instances
+	Intubation	Vs	Non-survival	->	pval: nan
+		Intubation: 2 instances
+		Non-survival: 2 instances
+###################################
+Day:	1
+	Room air	Vs	Nasal canula	->	pval: 0.44521761492514433
+		Room air: 5 instances
+		Nasal canula: 10 instances
+	Room air	Vs	NRM	->	pval: 0.4083083723731078
+		Room air: 5 instances
+		NRM: 5 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 5 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: 0.10943559787402418
+		Room air: 5 instances
+		HiFlow: 4 instances
+	Room air	Vs	Intubation	->	pval: 0.10943559787402418
+		Room air: 5 instances
+		Intubation: 4 instances
+	Room air	Vs	Non-survival	->	pval: 0.2745198223648806
+		Room air: 5 instances
+		Non-survival: 8 instances
+	Nasal canula	Vs	NRM	->	pval: 0.8133402811813104
+		Nasal canula: 10 instances
+		NRM: 5 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 10 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.27809237396336006
+		Nasal canula: 10 instances
+		HiFlow: 4 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.27809237396336006
+		Nasal canula: 10 instances
+		Intubation: 4 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.776814004155482
+		Nasal canula: 10 instances
+		Non-survival: 8 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 5 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.5023349543605021
+		NRM: 5 instances
+		HiFlow: 4 instances
+	NRM	Vs	Intubation	->	pval: 0.5023349543605021
+		NRM: 5 instances
+		Intubation: 4 instances
+	NRM	Vs	Non-survival	->	pval: 0.9209480872166469
+		NRM: 5 instances
+		Non-survival: 8 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 4 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 4 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 8 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 4 instances
+		Intubation: 4 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.35877189329887216
+		HiFlow: 4 instances
+		Non-survival: 8 instances
+	Intubation	Vs	Non-survival	->	pval: 0.35877189329887216
+		Intubation: 4 instances
+		Non-survival: 8 instances
+###################################
+Day:	2
+	Room air	Vs	Nasal canula	->	pval: 0.865865383369411
+		Room air: 6 instances
+		Nasal canula: 11 instances
+	Room air	Vs	NRM	->	pval: 0.7879190681952689
+		Room air: 6 instances
+		NRM: 6 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 6 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: 0.0740099699862347
+		Room air: 6 instances
+		HiFlow: 6 instances
+	Room air	Vs	Intubation	->	pval: 0.0740099699862347
+		Room air: 6 instances
+		Intubation: 6 instances
+	Room air	Vs	Non-survival	->	pval: 0.47858909895804247
+		Room air: 6 instances
+		Non-survival: 11 instances
+	Nasal canula	Vs	NRM	->	pval: 0.8599806521746538
+		Nasal canula: 11 instances
+		NRM: 6 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 11 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.12043624901598247
+		Nasal canula: 11 instances
+		HiFlow: 6 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.12043624901598247
+		Nasal canula: 11 instances
+		Intubation: 6 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.5781462061557414
+		Nasal canula: 11 instances
+		Non-survival: 11 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 6 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.17573433564422514
+		NRM: 6 instances
+		HiFlow: 6 instances
+	NRM	Vs	Intubation	->	pval: 0.17573433564422514
+		NRM: 6 instances
+		Intubation: 6 instances
+	NRM	Vs	Non-survival	->	pval: 0.8021248275805519
+		NRM: 6 instances
+		Non-survival: 11 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 6 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 6 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 11 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 6 instances
+		Intubation: 6 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.19838706381512183
+		HiFlow: 6 instances
+		Non-survival: 11 instances
+	Intubation	Vs	Non-survival	->	pval: 0.19838706381512183
+		Intubation: 6 instances
+		Non-survival: 11 instances
+###################################
+Day:	3
+	Room air	Vs	Nasal canula	->	pval: 1.0
+		Room air: 7 instances
+		Nasal canula: 17 instances
+	Room air	Vs	NRM	->	pval: 0.6278596492411279
+		Room air: 7 instances
+		NRM: 8 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 7 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: 0.05663639742375752
+		Room air: 7 instances
+		HiFlow: 8 instances
+	Room air	Vs	Intubation	->	pval: 0.09967860570035686
+		Room air: 7 instances
+		Intubation: 6 instances
+	Room air	Vs	Non-survival	->	pval: 0.40856533821803676
+		Room air: 7 instances
+		Non-survival: 16 instances
+	Nasal canula	Vs	NRM	->	pval: 0.4971572504964794
+		Nasal canula: 17 instances
+		NRM: 8 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 17 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.04297839406303178
+		Nasal canula: 17 instances
+		HiFlow: 8 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.07795838223837742
+		Nasal canula: 17 instances
+		Intubation: 6 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.33286734270089924
+		Nasal canula: 17 instances
+		Non-survival: 16 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 8 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.17090352023079747
+		NRM: 8 instances
+		HiFlow: 8 instances
+	NRM	Vs	Intubation	->	pval: 0.24399349228052303
+		NRM: 8 instances
+		Intubation: 6 instances
+	NRM	Vs	Non-survival	->	pval: 0.9355985248865824
+		NRM: 8 instances
+		Non-survival: 16 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 8 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 6 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 16 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 8 instances
+		Intubation: 6 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.14302671527199873
+		HiFlow: 8 instances
+		Non-survival: 16 instances
+	Intubation	Vs	Non-survival	->	pval: 0.2065960638312606
+		Intubation: 6 instances
+		Non-survival: 16 instances
+###################################
+Day:	4
+	Room air	Vs	Nasal canula	->	pval: 0.6270009168671573
+		Room air: 7 instances
+		Nasal canula: 17 instances
+	Room air	Vs	NRM	->	pval: 0.3032744331499675
+		Room air: 7 instances
+		NRM: 10 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 7 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: 0.01047488735288121
+		Room air: 7 instances
+		HiFlow: 10 instances
+	Room air	Vs	Intubation	->	pval: 0.053412544021624715
+		Room air: 7 instances
+		Intubation: 8 instances
+	Room air	Vs	Non-survival	->	pval: 0.15914257160122802
+		Room air: 7 instances
+		Non-survival: 16 instances
+	Nasal canula	Vs	NRM	->	pval: 0.3691494157816466
+		Nasal canula: 17 instances
+		NRM: 10 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 17 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.024532071106172105
+		Nasal canula: 17 instances
+		HiFlow: 10 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.11336421152155428
+		Nasal canula: 17 instances
+		Intubation: 8 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.3902182194250037
+		Nasal canula: 17 instances
+		Non-survival: 16 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 10 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.16807831903497028
+		NRM: 10 instances
+		HiFlow: 10 instances
+	NRM	Vs	Intubation	->	pval: 0.632172706662372
+		NRM: 10 instances
+		Intubation: 8 instances
+	NRM	Vs	Non-survival	->	pval: 0.7869698567768351
+		NRM: 10 instances
+		Non-survival: 16 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 10 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 8 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 16 instances
+	HiFlow	Vs	Intubation	->	pval: 0.31430466047385397
+		HiFlow: 10 instances
+		Intubation: 8 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.060212508549194084
+		HiFlow: 10 instances
+		Non-survival: 16 instances
+	Intubation	Vs	Non-survival	->	pval: 0.2590314271607519
+		Intubation: 8 instances
+		Non-survival: 16 instances
+###################################
+Day:	5
+	Room air	Vs	Nasal canula	->	pval: 0.3286017622944297
+		Room air: 8 instances
+		Nasal canula: 23 instances
+	Room air	Vs	NRM	->	pval: 0.2737384674208807
+		Room air: 8 instances
+		NRM: 12 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 8 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: 0.11276621104489043
+		Room air: 8 instances
+		HiFlow: 12 instances
+	Room air	Vs	Intubation	->	pval: 0.07967685737396603
+		Room air: 8 instances
+		Intubation: 11 instances
+	Room air	Vs	Non-survival	->	pval: 0.09494410093835402
+		Room air: 8 instances
+		Non-survival: 24 instances
+	Nasal canula	Vs	NRM	->	pval: 0.49737588220452655
+		Nasal canula: 23 instances
+		NRM: 12 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 23 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.5705429003249458
+		Nasal canula: 23 instances
+		HiFlow: 12 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.3548596210463312
+		Nasal canula: 23 instances
+		Intubation: 11 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.5612801164154884
+		Nasal canula: 23 instances
+		Non-survival: 24 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 12 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.8388770644833464
+		NRM: 12 instances
+		HiFlow: 12 instances
+	NRM	Vs	Intubation	->	pval: 0.9628609911827914
+		NRM: 12 instances
+		Intubation: 11 instances
+	NRM	Vs	Non-survival	->	pval: 0.7997184444530758
+		NRM: 12 instances
+		Non-survival: 24 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 12 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 11 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 24 instances
+	HiFlow	Vs	Intubation	->	pval: 0.7005916179569038
+		HiFlow: 12 instances
+		Intubation: 11 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.8944415388853967
+		HiFlow: 12 instances
+		Non-survival: 24 instances
+	Intubation	Vs	Non-survival	->	pval: 0.5780269821374673
+		Intubation: 11 instances
+		Non-survival: 24 instances
+###################################
+Day:	6
+	Room air	Vs	Nasal canula	->	pval: 0.4254339151188
+		Room air: 8 instances
+		Nasal canula: 26 instances
+	Room air	Vs	NRM	->	pval: 0.22011908294156535
+		Room air: 8 instances
+		NRM: 13 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 8 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: 0.31421947517949145
+		Room air: 8 instances
+		HiFlow: 13 instances
+	Room air	Vs	Intubation	->	pval: 0.050836731561911895
+		Room air: 8 instances
+		Intubation: 13 instances
+	Room air	Vs	Non-survival	->	pval: 0.11430907305064561
+		Room air: 8 instances
+		Non-survival: 25 instances
+	Nasal canula	Vs	NRM	->	pval: 0.2662077973842256
+		Nasal canula: 26 instances
+		NRM: 13 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 26 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.8915021191539292
+		Nasal canula: 26 instances
+		HiFlow: 13 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.1301192479114247
+		Nasal canula: 26 instances
+		Intubation: 13 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.3745135726192891
+		Nasal canula: 26 instances
+		Non-survival: 25 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 13 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.35753227303141366
+		NRM: 13 instances
+		HiFlow: 13 instances
+	NRM	Vs	Intubation	->	pval: 0.9025297155570575
+		NRM: 13 instances
+		Intubation: 13 instances
+	NRM	Vs	Non-survival	->	pval: 0.5914969228622113
+		NRM: 13 instances
+		Non-survival: 25 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 13 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 13 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 25 instances
+	HiFlow	Vs	Intubation	->	pval: 0.1992467216678444
+		HiFlow: 13 instances
+		Intubation: 13 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.5497117964642293
+		HiFlow: 13 instances
+		Non-survival: 25 instances
+	Intubation	Vs	Non-survival	->	pval: 0.37458580051860735
+		Intubation: 13 instances
+		Non-survival: 25 instances
+###################################
+Day:	7
+	Room air	Vs	Nasal canula	->	pval: 0.26072352419417966
+		Room air: 8 instances
+		Nasal canula: 26 instances
+	Room air	Vs	NRM	->	pval: 0.07982010597715587
+		Room air: 8 instances
+		NRM: 16 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 8 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: 0.25470596737328366
+		Room air: 8 instances
+		HiFlow: 13 instances
+	Room air	Vs	Intubation	->	pval: 0.062293028606603414
+		Room air: 8 instances
+		Intubation: 14 instances
+	Room air	Vs	Non-survival	->	pval: 0.010683108895925882
+		Room air: 8 instances
+		Non-survival: 30 instances
+	Nasal canula	Vs	NRM	->	pval: 0.21096306694608924
+		Nasal canula: 26 instances
+		NRM: 16 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 26 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.8802795296859287
+		Nasal canula: 26 instances
+		HiFlow: 13 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.23031190041555993
+		Nasal canula: 26 instances
+		Intubation: 14 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.06439630584084621
+		Nasal canula: 26 instances
+		Non-survival: 30 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 16 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.3880780480748245
+		NRM: 16 instances
+		HiFlow: 13 instances
+	NRM	Vs	Intubation	->	pval: 1.0
+		NRM: 16 instances
+		Intubation: 14 instances
+	NRM	Vs	Non-survival	->	pval: 0.9336355233686039
+		NRM: 16 instances
+		Non-survival: 30 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 13 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 14 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 30 instances
+	HiFlow	Vs	Intubation	->	pval: 0.382645758962482
+		HiFlow: 13 instances
+		Intubation: 14 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.1723210944123177
+		HiFlow: 13 instances
+		Non-survival: 30 instances
+	Intubation	Vs	Non-survival	->	pval: 0.829998443698138
+		Intubation: 14 instances
+		Non-survival: 30 instances
+###################################
+Day:	8
+	Room air	Vs	Nasal canula	->	pval: 0.28083971194666113
+		Room air: 8 instances
+		Nasal canula: 28 instances
+	Room air	Vs	NRM	->	pval: 0.07787854276843315
+		Room air: 8 instances
+		NRM: 17 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 8 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: 0.39827987235391615
+		Room air: 8 instances
+		HiFlow: 15 instances
+	Room air	Vs	Intubation	->	pval: 0.18583417267108315
+		Room air: 8 instances
+		Intubation: 15 instances
+	Room air	Vs	Non-survival	->	pval: 0.007239975150827083
+		Room air: 8 instances
+		Non-survival: 33 instances
+	Nasal canula	Vs	NRM	->	pval: 0.17514553093339313
+		Nasal canula: 28 instances
+		NRM: 17 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 28 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.9886112213479555
+		Nasal canula: 28 instances
+		HiFlow: 15 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.524245067555172
+		Nasal canula: 28 instances
+		Intubation: 15 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.03297176035865251
+		Nasal canula: 28 instances
+		Non-survival: 33 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 17 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.2833337074302643
+		NRM: 17 instances
+		HiFlow: 15 instances
+	NRM	Vs	Intubation	->	pval: 0.4714876683394529
+		NRM: 17 instances
+		Intubation: 15 instances
+	NRM	Vs	Non-survival	->	pval: 0.8663895549733528
+		NRM: 17 instances
+		Non-survival: 33 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 15 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 15 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 33 instances
+	HiFlow	Vs	Intubation	->	pval: 0.6477295962232992
+		HiFlow: 15 instances
+		Intubation: 15 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.0692435681640324
+		HiFlow: 15 instances
+		Non-survival: 33 instances
+	Intubation	Vs	Non-survival	->	pval: 0.23243491580637277
+		Intubation: 15 instances
+		Non-survival: 33 instances
+###################################
+Day:	9
+	Room air	Vs	Nasal canula	->	pval: 0.6556966847579265
+		Room air: 6 instances
+		Nasal canula: 28 instances
+	Room air	Vs	NRM	->	pval: 0.1305715223937955
+		Room air: 6 instances
+		NRM: 17 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 6 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: 0.481980285827449
+		Room air: 6 instances
+		HiFlow: 15 instances
+	Room air	Vs	Intubation	->	pval: 0.180804240709456
+		Room air: 6 instances
+		Intubation: 15 instances
+	Room air	Vs	Non-survival	->	pval: 0.03277794026722025
+		Room air: 6 instances
+		Non-survival: 33 instances
+	Nasal canula	Vs	NRM	->	pval: 0.10061736812835652
+		Nasal canula: 28 instances
+		NRM: 17 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 28 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.5900470070450743
+		Nasal canula: 28 instances
+		HiFlow: 15 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.14997062449919285
+		Nasal canula: 28 instances
+		Intubation: 15 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.009979972560334076
+		Nasal canula: 28 instances
+		Non-survival: 33 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 17 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.3846634830373509
+		NRM: 17 instances
+		HiFlow: 15 instances
+	NRM	Vs	Intubation	->	pval: 0.8903006717120139
+		NRM: 17 instances
+		Intubation: 15 instances
+	NRM	Vs	Non-survival	->	pval: 0.8396006336534434
+		NRM: 17 instances
+		Non-survival: 33 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 15 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 15 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 33 instances
+	HiFlow	Vs	Intubation	->	pval: 0.43890394747558903
+		HiFlow: 15 instances
+		Intubation: 15 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.12077016837334359
+		HiFlow: 15 instances
+		Non-survival: 33 instances
+	Intubation	Vs	Non-survival	->	pval: 0.5971053309003564
+		Intubation: 15 instances
+		Non-survival: 33 instances
+###################################
+Day:	10
+	Room air	Vs	Nasal canula	->	pval: 0.769987191109356
+		Room air: 5 instances
+		Nasal canula: 27 instances
+	Room air	Vs	NRM	->	pval: 0.5746123396609286
+		Room air: 5 instances
+		NRM: 15 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 5 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: 0.4016849590810595
+		Room air: 5 instances
+		HiFlow: 17 instances
+	Room air	Vs	Intubation	->	pval: 0.511443252979855
+		Room air: 5 instances
+		Intubation: 16 instances
+	Room air	Vs	Non-survival	->	pval: 0.12491001914076993
+		Room air: 5 instances
+		Non-survival: 33 instances
+	Nasal canula	Vs	NRM	->	pval: 0.17911670389331757
+		Nasal canula: 27 instances
+		NRM: 15 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 27 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.06678117631668752
+		Nasal canula: 27 instances
+		HiFlow: 17 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.11123396621143776
+		Nasal canula: 27 instances
+		Intubation: 16 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.0006641880046006323
+		Nasal canula: 27 instances
+		Non-survival: 33 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 15 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.6097407188274797
+		NRM: 15 instances
+		HiFlow: 17 instances
+	NRM	Vs	Intubation	->	pval: 0.9151010736992472
+		NRM: 15 instances
+		Intubation: 16 instances
+	NRM	Vs	Non-survival	->	pval: 0.21099640258632657
+		NRM: 15 instances
+		Non-survival: 33 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 17 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 16 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 33 instances
+	HiFlow	Vs	Intubation	->	pval: 0.6593134928210729
+		HiFlow: 17 instances
+		Intubation: 16 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.42085781701510105
+		HiFlow: 17 instances
+		Non-survival: 33 instances
+	Intubation	Vs	Non-survival	->	pval: 0.21220794176473667
+		Intubation: 16 instances
+		Non-survival: 33 instances
+###################################
+Day:	11
+	Room air	Vs	Nasal canula	->	pval: 0.2361172078149859
+		Room air: 4 instances
+		Nasal canula: 26 instances
+	Room air	Vs	NRM	->	pval: 0.638348108071144
+		Room air: 4 instances
+		NRM: 15 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 4 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: 0.867640855500053
+		Room air: 4 instances
+		HiFlow: 16 instances
+	Room air	Vs	Intubation	->	pval: 0.9595482053978839
+		Room air: 4 instances
+		Intubation: 16 instances
+	Room air	Vs	Non-survival	->	pval: 0.553839326258923
+		Room air: 4 instances
+		Non-survival: 32 instances
+	Nasal canula	Vs	NRM	->	pval: 0.31392750311986206
+		Nasal canula: 26 instances
+		NRM: 15 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 26 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.05390870882020422
+		Nasal canula: 26 instances
+		HiFlow: 16 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.0843306665652585
+		Nasal canula: 26 instances
+		Intubation: 16 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.00030293522650714334
+		Nasal canula: 26 instances
+		Non-survival: 32 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 15 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.26033228027289224
+		NRM: 15 instances
+		HiFlow: 16 instances
+	NRM	Vs	Intubation	->	pval: 0.5881317371549077
+		NRM: 15 instances
+		Intubation: 16 instances
+	NRM	Vs	Non-survival	->	pval: 0.06449823136195101
+		NRM: 15 instances
+		Non-survival: 32 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 16 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 16 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 32 instances
+	HiFlow	Vs	Intubation	->	pval: 0.4973224706145195
+		HiFlow: 16 instances
+		Intubation: 16 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.9397653197974167
+		HiFlow: 16 instances
+		Non-survival: 32 instances
+	Intubation	Vs	Non-survival	->	pval: 0.25087448421472747
+		Intubation: 16 instances
+		Non-survival: 32 instances
+###################################
+Day:	12
+	Room air	Vs	Nasal canula	->	pval: 0.0487790981433046
+		Room air: 3 instances
+		Nasal canula: 29 instances
+	Room air	Vs	NRM	->	pval: 0.03539508273276299
+		Room air: 3 instances
+		NRM: 18 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 3 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: 0.18558549750773656
+		Room air: 3 instances
+		HiFlow: 18 instances
+	Room air	Vs	Intubation	->	pval: 0.21374965087796882
+		Room air: 3 instances
+		Intubation: 17 instances
+	Room air	Vs	Non-survival	->	pval: 0.18660637837031535
+		Room air: 3 instances
+		Non-survival: 31 instances
+	Nasal canula	Vs	NRM	->	pval: 0.763984992340243
+		Nasal canula: 29 instances
+		NRM: 18 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 29 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.11403147878607532
+		Nasal canula: 29 instances
+		HiFlow: 18 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.09706509076980596
+		Nasal canula: 29 instances
+		Intubation: 17 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.015242372439254678
+		Nasal canula: 29 instances
+		Non-survival: 31 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 18 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.08622379233405728
+		NRM: 18 instances
+		HiFlow: 18 instances
+	NRM	Vs	Intubation	->	pval: 0.06482204924326146
+		NRM: 18 instances
+		Intubation: 17 instances
+	NRM	Vs	Non-survival	->	pval: 0.014264159320251643
+		NRM: 18 instances
+		Non-survival: 31 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 18 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 17 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 31 instances
+	HiFlow	Vs	Intubation	->	pval: 0.869088271291609
+		HiFlow: 18 instances
+		Intubation: 17 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.6954708891008998
+		HiFlow: 18 instances
+		Non-survival: 31 instances
+	Intubation	Vs	Non-survival	->	pval: 0.9327874539818286
+		Intubation: 17 instances
+		Non-survival: 31 instances
+###################################
+Day:	13
+	Room air	Vs	Nasal canula	->	pval: 0.042366691599444214
+		Room air: 3 instances
+		Nasal canula: 30 instances
+	Room air	Vs	NRM	->	pval: 0.03887905730596099
+		Room air: 3 instances
+		NRM: 17 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 3 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: 0.10028656074691655
+		Room air: 3 instances
+		HiFlow: 17 instances
+	Room air	Vs	Intubation	->	pval: 0.196181610210991
+		Room air: 3 instances
+		Intubation: 16 instances
+	Room air	Vs	Non-survival	->	pval: 0.1336240955756077
+		Room air: 3 instances
+		Non-survival: 28 instances
+	Nasal canula	Vs	NRM	->	pval: 0.4802058966453123
+		Nasal canula: 30 instances
+		NRM: 17 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 30 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.18475500682120471
+		Nasal canula: 30 instances
+		HiFlow: 17 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.14940519507322222
+		Nasal canula: 30 instances
+		Intubation: 16 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.036691351371460394
+		Nasal canula: 30 instances
+		Non-survival: 28 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 17 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.09808080787738241
+		NRM: 17 instances
+		HiFlow: 17 instances
+	NRM	Vs	Intubation	->	pval: 0.0935739154577031
+		NRM: 17 instances
+		Intubation: 16 instances
+	NRM	Vs	Non-survival	->	pval: 0.024102577742004274
+		NRM: 17 instances
+		Non-survival: 28 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 17 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 16 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 28 instances
+	HiFlow	Vs	Intubation	->	pval: 0.6456376962992161
+		HiFlow: 17 instances
+		Intubation: 16 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.6034751780416652
+		HiFlow: 17 instances
+		Non-survival: 28 instances
+	Intubation	Vs	Non-survival	->	pval: 0.9684394011341954
+		Intubation: 16 instances
+		Non-survival: 28 instances
+###################################
+Day:	14
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 1 instances
+		Nasal canula: 28 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 1 instances
+		NRM: 16 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 1 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 1 instances
+		HiFlow: 18 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 1 instances
+		Intubation: 16 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 1 instances
+		Non-survival: 28 instances
+	Nasal canula	Vs	NRM	->	pval: 0.44612675834555615
+		Nasal canula: 28 instances
+		NRM: 16 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 28 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.40770754952665256
+		Nasal canula: 28 instances
+		HiFlow: 18 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.2612980870864533
+		Nasal canula: 28 instances
+		Intubation: 16 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.06742537168442467
+		Nasal canula: 28 instances
+		Non-survival: 28 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 16 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.3811414162274782
+		NRM: 16 instances
+		HiFlow: 18 instances
+	NRM	Vs	Intubation	->	pval: 0.16867801356035528
+		NRM: 16 instances
+		Intubation: 16 instances
+	NRM	Vs	Non-survival	->	pval: 0.07005042883053902
+		NRM: 16 instances
+		Non-survival: 28 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 18 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 16 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 28 instances
+	HiFlow	Vs	Intubation	->	pval: 0.578511237465673
+		HiFlow: 18 instances
+		Intubation: 16 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.41285465429436274
+		HiFlow: 18 instances
+		Non-survival: 28 instances
+	Intubation	Vs	Non-survival	->	pval: 0.9381465838830939
+		Intubation: 16 instances
+		Non-survival: 28 instances
+###################################
+Day:	15
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 1 instances
+		Nasal canula: 26 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 1 instances
+		NRM: 17 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 1 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 1 instances
+		HiFlow: 17 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 1 instances
+		Intubation: 16 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 1 instances
+		Non-survival: 27 instances
+	Nasal canula	Vs	NRM	->	pval: 0.42950386741296975
+		Nasal canula: 26 instances
+		NRM: 17 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 26 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.4619958236015077
+		Nasal canula: 26 instances
+		HiFlow: 17 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.31317358553158126
+		Nasal canula: 26 instances
+		Intubation: 16 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.11825135250862495
+		Nasal canula: 26 instances
+		Non-survival: 27 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 17 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.26239222613412494
+		NRM: 17 instances
+		HiFlow: 17 instances
+	NRM	Vs	Intubation	->	pval: 0.1555712884277832
+		NRM: 17 instances
+		Intubation: 16 instances
+	NRM	Vs	Non-survival	->	pval: 0.06218004796449199
+		NRM: 17 instances
+		Non-survival: 27 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 17 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 16 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 27 instances
+	HiFlow	Vs	Intubation	->	pval: 0.6836170310831511
+		HiFlow: 17 instances
+		Intubation: 16 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.38800896583882327
+		HiFlow: 17 instances
+		Non-survival: 27 instances
+	Intubation	Vs	Non-survival	->	pval: 0.7737224743317644
+		Intubation: 16 instances
+		Non-survival: 27 instances
+###################################
+Day:	16
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 1 instances
+		Nasal canula: 22 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 1 instances
+		NRM: 16 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 1 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 1 instances
+		HiFlow: 17 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 1 instances
+		Intubation: 16 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 1 instances
+		Non-survival: 27 instances
+	Nasal canula	Vs	NRM	->	pval: 0.09865276018171519
+		Nasal canula: 22 instances
+		NRM: 16 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 22 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.8399416320462563
+		Nasal canula: 22 instances
+		HiFlow: 17 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.8447329488795795
+		Nasal canula: 22 instances
+		Intubation: 16 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.5823572694544672
+		Nasal canula: 22 instances
+		Non-survival: 27 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 16 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.1717280686610343
+		NRM: 16 instances
+		HiFlow: 17 instances
+	NRM	Vs	Intubation	->	pval: 0.20056656596895373
+		NRM: 16 instances
+		Intubation: 16 instances
+	NRM	Vs	Non-survival	->	pval: 0.039728109546903666
+		NRM: 16 instances
+		Non-survival: 27 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 17 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 16 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 27 instances
+	HiFlow	Vs	Intubation	->	pval: 0.8691302137921761
+		HiFlow: 17 instances
+		Intubation: 16 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.5430761361776165
+		HiFlow: 17 instances
+		Non-survival: 27 instances
+	Intubation	Vs	Non-survival	->	pval: 0.6117874797038564
+		Intubation: 16 instances
+		Non-survival: 27 instances
+###################################
+Day:	17
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 1 instances
+		Nasal canula: 14 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 1 instances
+		NRM: 15 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 1 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 1 instances
+		HiFlow: 15 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 1 instances
+		Intubation: 16 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 1 instances
+		Non-survival: 26 instances
+	Nasal canula	Vs	NRM	->	pval: 0.19111874990877054
+		Nasal canula: 14 instances
+		NRM: 15 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 14 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.6408236468324242
+		Nasal canula: 14 instances
+		HiFlow: 15 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.5973878005586825
+		Nasal canula: 14 instances
+		Intubation: 16 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.5657844898267668
+		Nasal canula: 14 instances
+		Non-survival: 26 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 15 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.19792925810268758
+		NRM: 15 instances
+		HiFlow: 15 instances
+	NRM	Vs	Intubation	->	pval: 0.34442576811929804
+		NRM: 15 instances
+		Intubation: 16 instances
+	NRM	Vs	Non-survival	->	pval: 0.024432074650998562
+		NRM: 15 instances
+		Non-survival: 26 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 15 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 16 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 26 instances
+	HiFlow	Vs	Intubation	->	pval: 0.951822928466832
+		HiFlow: 15 instances
+		Intubation: 16 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.2263609660527004
+		HiFlow: 15 instances
+		Non-survival: 26 instances
+	Intubation	Vs	Non-survival	->	pval: 0.1838865239676546
+		Intubation: 16 instances
+		Non-survival: 26 instances
+###################################
+Day:	18
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 2 instances
+		Nasal canula: 12 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 2 instances
+		NRM: 13 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 2 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 2 instances
+		HiFlow: 15 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 2 instances
+		Intubation: 15 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 2 instances
+		Non-survival: 23 instances
+	Nasal canula	Vs	NRM	->	pval: 0.33580689955878007
+		Nasal canula: 12 instances
+		NRM: 13 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 12 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.4572646607669113
+		Nasal canula: 12 instances
+		HiFlow: 15 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.40312773676187486
+		Nasal canula: 12 instances
+		Intubation: 15 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.3218213316827758
+		Nasal canula: 12 instances
+		Non-survival: 23 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 13 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.5578136198031021
+		NRM: 13 instances
+		HiFlow: 15 instances
+	NRM	Vs	Intubation	->	pval: 0.545342657895
+		NRM: 13 instances
+		Intubation: 15 instances
+	NRM	Vs	Non-survival	->	pval: 0.03773970536051669
+		NRM: 13 instances
+		Non-survival: 23 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 15 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 15 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 23 instances
+	HiFlow	Vs	Intubation	->	pval: 0.9331250641160671
+		HiFlow: 15 instances
+		Intubation: 15 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.07106523771876974
+		HiFlow: 15 instances
+		Non-survival: 23 instances
+	Intubation	Vs	Non-survival	->	pval: 0.05487448649695625
+		Intubation: 15 instances
+		Non-survival: 23 instances
+###################################
+Day:	19
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 1 instances
+		Nasal canula: 12 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 1 instances
+		NRM: 12 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 1 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 1 instances
+		HiFlow: 16 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 1 instances
+		Intubation: 15 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 1 instances
+		Non-survival: 22 instances
+	Nasal canula	Vs	NRM	->	pval: 0.1281540594353941
+		Nasal canula: 12 instances
+		NRM: 12 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 12 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.9614277904627537
+		Nasal canula: 12 instances
+		HiFlow: 16 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.5686791035013922
+		Nasal canula: 12 instances
+		Intubation: 15 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.3913646747346009
+		Nasal canula: 12 instances
+		Non-survival: 22 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 12 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.16460203182976074
+		NRM: 12 instances
+		HiFlow: 16 instances
+	NRM	Vs	Intubation	->	pval: 0.34655569855967683
+		NRM: 12 instances
+		Intubation: 15 instances
+	NRM	Vs	Non-survival	->	pval: 0.03552355717861473
+		NRM: 12 instances
+		Non-survival: 22 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 16 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 15 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 22 instances
+	HiFlow	Vs	Intubation	->	pval: 0.5544729129363499
+		HiFlow: 16 instances
+		Intubation: 15 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.3784856008974694
+		HiFlow: 16 instances
+		Non-survival: 22 instances
+	Intubation	Vs	Non-survival	->	pval: 0.14158555008441906
+		Intubation: 15 instances
+		Non-survival: 22 instances
+###################################
+Day:	20
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 1 instances
+		Nasal canula: 11 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 1 instances
+		NRM: 11 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 1 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 1 instances
+		HiFlow: 13 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 1 instances
+		Intubation: 16 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 1 instances
+		Non-survival: 23 instances
+	Nasal canula	Vs	NRM	->	pval: 0.15855235702518955
+		Nasal canula: 11 instances
+		NRM: 11 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 11 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.6568330022187887
+		Nasal canula: 11 instances
+		HiFlow: 13 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.38000831443676775
+		Nasal canula: 11 instances
+		Intubation: 16 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.5658058305650284
+		Nasal canula: 11 instances
+		Non-survival: 23 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 11 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.4210073411071782
+		NRM: 11 instances
+		HiFlow: 13 instances
+	NRM	Vs	Intubation	->	pval: 0.899914662907931
+		NRM: 11 instances
+		Intubation: 16 instances
+	NRM	Vs	Non-survival	->	pval: 0.08985445545112818
+		NRM: 11 instances
+		Non-survival: 23 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 13 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 16 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 23 instances
+	HiFlow	Vs	Intubation	->	pval: 0.6523036560104398
+		HiFlow: 13 instances
+		Intubation: 16 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.2859662663636121
+		HiFlow: 13 instances
+		Non-survival: 23 instances
+	Intubation	Vs	Non-survival	->	pval: 0.15020861037887573
+		Intubation: 16 instances
+		Non-survival: 23 instances
+###################################
+Day:	21
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 1 instances
+		Nasal canula: 11 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 1 instances
+		NRM: 7 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 1 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 1 instances
+		HiFlow: 12 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 1 instances
+		Intubation: 14 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 1 instances
+		Non-survival: 19 instances
+	Nasal canula	Vs	NRM	->	pval: 0.7434578363918052
+		Nasal canula: 11 instances
+		NRM: 7 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 11 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.9220592168974303
+		Nasal canula: 11 instances
+		HiFlow: 12 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.28481802180900684
+		Nasal canula: 11 instances
+		Intubation: 14 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.7204285707632545
+		Nasal canula: 11 instances
+		Non-survival: 19 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 7 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.8611728325641909
+		NRM: 7 instances
+		HiFlow: 12 instances
+	NRM	Vs	Intubation	->	pval: 0.2733558983994394
+		NRM: 7 instances
+		Intubation: 14 instances
+	NRM	Vs	Non-survival	->	pval: 0.9762106160129275
+		NRM: 7 instances
+		Non-survival: 19 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 12 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 14 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 19 instances
+	HiFlow	Vs	Intubation	->	pval: 0.38298770315224795
+		HiFlow: 12 instances
+		Intubation: 14 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.6421072515892621
+		HiFlow: 12 instances
+		Non-survival: 19 instances
+	Intubation	Vs	Non-survival	->	pval: 0.1573147236374146
+		Intubation: 14 instances
+		Non-survival: 19 instances
+###################################
+Day:	22
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 1 instances
+		Nasal canula: 9 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 1 instances
+		NRM: 7 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 1 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 1 instances
+		HiFlow: 13 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 1 instances
+		Intubation: 14 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 1 instances
+		Non-survival: 18 instances
+	Nasal canula	Vs	NRM	->	pval: 0.9131160800723744
+		Nasal canula: 9 instances
+		NRM: 7 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 9 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 1.0
+		Nasal canula: 9 instances
+		HiFlow: 13 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.5615174558544226
+		Nasal canula: 9 instances
+		Intubation: 14 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.7684583572208751
+		Nasal canula: 9 instances
+		Non-survival: 18 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 7 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.8376967098228566
+		NRM: 7 instances
+		HiFlow: 13 instances
+	NRM	Vs	Intubation	->	pval: 0.7326994182646229
+		NRM: 7 instances
+		Intubation: 14 instances
+	NRM	Vs	Non-survival	->	pval: 0.7545584672481882
+		NRM: 7 instances
+		Non-survival: 18 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 13 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 14 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 18 instances
+	HiFlow	Vs	Intubation	->	pval: 0.4374684190127621
+		HiFlow: 13 instances
+		Intubation: 14 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.5317262078881568
+		HiFlow: 13 instances
+		Non-survival: 18 instances
+	Intubation	Vs	Non-survival	->	pval: 0.31005824988650965
+		Intubation: 14 instances
+		Non-survival: 18 instances
+###################################
+Day:	23
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 8 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 5 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 13 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 12 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 14 instances
+	Nasal canula	Vs	NRM	->	pval: 0.8159653767547358
+		Nasal canula: 8 instances
+		NRM: 5 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 8 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.7876761769177473
+		Nasal canula: 8 instances
+		HiFlow: 13 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.07462319150394245
+		Nasal canula: 8 instances
+		Intubation: 12 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.8588345679410951
+		Nasal canula: 8 instances
+		Non-survival: 14 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 5 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.9591452112427492
+		NRM: 5 instances
+		HiFlow: 13 instances
+	NRM	Vs	Intubation	->	pval: 0.23981245885962088
+		NRM: 5 instances
+		Intubation: 12 instances
+	NRM	Vs	Non-survival	->	pval: 1.0
+		NRM: 5 instances
+		Non-survival: 14 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 13 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 12 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 14 instances
+	HiFlow	Vs	Intubation	->	pval: 0.07518794904145909
+		HiFlow: 13 instances
+		Intubation: 12 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.8607506137046962
+		HiFlow: 13 instances
+		Non-survival: 14 instances
+	Intubation	Vs	Non-survival	->	pval: 0.08562854353939074
+		Intubation: 12 instances
+		Non-survival: 14 instances
+###################################
+Day:	24
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 8 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 3 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 11 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 13 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 13 instances
+	Nasal canula	Vs	NRM	->	pval: 0.7417979992558588
+		Nasal canula: 8 instances
+		NRM: 3 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 8 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.7630931592336401
+		Nasal canula: 8 instances
+		HiFlow: 11 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.0585612436641511
+		Nasal canula: 8 instances
+		Intubation: 13 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.5226535517998352
+		Nasal canula: 8 instances
+		Non-survival: 13 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 3 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.5143216853111202
+		NRM: 3 instances
+		HiFlow: 11 instances
+	NRM	Vs	Intubation	->	pval: 0.10231141740214876
+		NRM: 3 instances
+		Intubation: 13 instances
+	NRM	Vs	Non-survival	->	pval: 0.4057471254086016
+		NRM: 3 instances
+		Non-survival: 13 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 11 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 13 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 13 instances
+	HiFlow	Vs	Intubation	->	pval: 0.09429588176360293
+		HiFlow: 11 instances
+		Intubation: 13 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.7895167476570202
+		HiFlow: 11 instances
+		Non-survival: 13 instances
+	Intubation	Vs	Non-survival	->	pval: 0.23286007955871835
+		Intubation: 13 instances
+		Non-survival: 13 instances
+###################################
+Day:	25
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 6 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 2 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 11 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 13 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 12 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 6 instances
+		NRM: 2 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 6 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.49532279833561577
+		Nasal canula: 6 instances
+		HiFlow: 11 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.15106599444758587
+		Nasal canula: 6 instances
+		Intubation: 13 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.30833585440531874
+		Nasal canula: 6 instances
+		Non-survival: 12 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 2 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 2 instances
+		HiFlow: 11 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 2 instances
+		Intubation: 13 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 2 instances
+		Non-survival: 12 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 11 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 13 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 12 instances
+	HiFlow	Vs	Intubation	->	pval: 0.2386518949466001
+		HiFlow: 11 instances
+		Intubation: 13 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.6139275329001085
+		HiFlow: 11 instances
+		Non-survival: 12 instances
+	Intubation	Vs	Non-survival	->	pval: 0.638958686688041
+		Intubation: 13 instances
+		Non-survival: 12 instances
+###################################
+Day:	26
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 6 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 3 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 9 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 11 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 11 instances
+	Nasal canula	Vs	NRM	->	pval: 0.23527304310687258
+		Nasal canula: 6 instances
+		NRM: 3 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 6 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.24979971470039086
+		Nasal canula: 6 instances
+		HiFlow: 9 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.13883184463084153
+		Nasal canula: 6 instances
+		Intubation: 11 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.3539489783544646
+		Nasal canula: 6 instances
+		Non-survival: 11 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 3 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.6421507534304194
+		NRM: 3 instances
+		HiFlow: 9 instances
+	NRM	Vs	Intubation	->	pval: 0.7523144895969657
+		NRM: 3 instances
+		Intubation: 11 instances
+	NRM	Vs	Non-survival	->	pval: 0.6954971614521146
+		NRM: 3 instances
+		Non-survival: 11 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 9 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 11 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 11 instances
+	HiFlow	Vs	Intubation	->	pval: 0.6732605207140666
+		HiFlow: 9 instances
+		Intubation: 11 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.9388404178034134
+		HiFlow: 9 instances
+		Non-survival: 11 instances
+	Intubation	Vs	Non-survival	->	pval: 0.6439803703463296
+		Intubation: 11 instances
+		Non-survival: 11 instances
+###################################
+Day:	27
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 5 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 3 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 1 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 6 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 11 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 11 instances
+	Nasal canula	Vs	NRM	->	pval: 0.16652801950456886
+		Nasal canula: 5 instances
+		NRM: 3 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 5 instances
+		CPAP-BPAP: 1 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.5637028616507731
+		Nasal canula: 5 instances
+		HiFlow: 6 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.10609004681977095
+		Nasal canula: 5 instances
+		Intubation: 11 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.29477472867446874
+		Nasal canula: 5 instances
+		Non-survival: 11 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 3 instances
+		CPAP-BPAP: 1 instances
+	NRM	Vs	HiFlow	->	pval: 0.42677673653298354
+		NRM: 3 instances
+		HiFlow: 6 instances
+	NRM	Vs	Intubation	->	pval: 0.6922313273681038
+		NRM: 3 instances
+		Intubation: 11 instances
+	NRM	Vs	Non-survival	->	pval: 0.481102281324719
+		NRM: 3 instances
+		Non-survival: 11 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 1 instances
+		HiFlow: 6 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Intubation: 11 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 1 instances
+		Non-survival: 11 instances
+	HiFlow	Vs	Intubation	->	pval: 0.3582436187456236
+		HiFlow: 6 instances
+		Intubation: 11 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.7988179875514384
+		HiFlow: 6 instances
+		Non-survival: 11 instances
+	Intubation	Vs	Non-survival	->	pval: 0.508761699715389
+		Intubation: 11 instances
+		Non-survival: 11 instances
+###################################
+Day:	28
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 3 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 3 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 5 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 12 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 12 instances
+	Nasal canula	Vs	NRM	->	pval: 0.11568802229950938
+		Nasal canula: 3 instances
+		NRM: 3 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 3 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.12425346938257603
+		Nasal canula: 3 instances
+		HiFlow: 5 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.07226673626558018
+		Nasal canula: 3 instances
+		Intubation: 12 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.4332725608368351
+		Nasal canula: 3 instances
+		Non-survival: 12 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 3 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: 0.7599815271577279
+		NRM: 3 instances
+		HiFlow: 5 instances
+	NRM	Vs	Intubation	->	pval: 0.5015188851275876
+		NRM: 3 instances
+		Intubation: 12 instances
+	NRM	Vs	Non-survival	->	pval: 0.3316410472974344
+		NRM: 3 instances
+		Non-survival: 12 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 5 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 12 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 12 instances
+	HiFlow	Vs	Intubation	->	pval: 0.8303446267826593
+		HiFlow: 5 instances
+		Intubation: 12 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.47657005694359766
+		HiFlow: 5 instances
+		Non-survival: 12 instances
+	Intubation	Vs	Non-survival	->	pval: 0.30200994961722705
+		Intubation: 12 instances
+		Non-survival: 12 instances
+###################################
+Day:	29
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 3 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 3 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 4 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 11 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 12 instances
+	Nasal canula	Vs	NRM	->	pval: 0.11568802229950938
+		Nasal canula: 3 instances
+		NRM: 3 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 3 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: 0.19908985214820463
+		Nasal canula: 3 instances
+		HiFlow: 4 instances
+	Nasal canula	Vs	Intubation	->	pval: 0.25320757796117366
+		Nasal canula: 3 instances
+		Intubation: 11 instances
+	Nasal canula	Vs	Non-survival	->	pval: 0.2962570696964604
+		Nasal canula: 3 instances
+		Non-survival: 12 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 3 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: 0.7212766990291557
+		NRM: 3 instances
+		HiFlow: 4 instances
+	NRM	Vs	Intubation	->	pval: 0.20008970622200917
+		NRM: 3 instances
+		Intubation: 11 instances
+	NRM	Vs	Non-survival	->	pval: 0.34292038415506376
+		NRM: 3 instances
+		Non-survival: 12 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 4 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 11 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 12 instances
+	HiFlow	Vs	Intubation	->	pval: 0.5058033727519156
+		HiFlow: 4 instances
+		Intubation: 11 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.6661234165690365
+		HiFlow: 4 instances
+		Non-survival: 12 instances
+	Intubation	Vs	Non-survival	->	pval: 0.9499519865598034
+		Intubation: 11 instances
+		Non-survival: 12 instances
+###################################
+Day:	30
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 2 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 1 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 3 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 12 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 11 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 2 instances
+		NRM: 1 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 2 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 2 instances
+		HiFlow: 3 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 2 instances
+		Intubation: 12 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 2 instances
+		Non-survival: 11 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 1 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 1 instances
+		HiFlow: 3 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 1 instances
+		Intubation: 12 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 1 instances
+		Non-survival: 11 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 3 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 12 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 11 instances
+	HiFlow	Vs	Intubation	->	pval: 1.0
+		HiFlow: 3 instances
+		Intubation: 12 instances
+	HiFlow	Vs	Non-survival	->	pval: 0.45377104739609675
+		HiFlow: 3 instances
+		Non-survival: 11 instances
+	Intubation	Vs	Non-survival	->	pval: 0.08281466340959842
+		Intubation: 12 instances
+		Non-survival: 11 instances
+###################################
+Day:	31
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 1 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 2 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 10 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 11 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 1 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 1 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 1 instances
+		HiFlow: 2 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 1 instances
+		Intubation: 10 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 1 instances
+		Non-survival: 11 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 2 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 10 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 11 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 2 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 10 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 11 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 2 instances
+		Intubation: 10 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 2 instances
+		Non-survival: 11 instances
+	Intubation	Vs	Non-survival	->	pval: 0.14833476366923792
+		Intubation: 10 instances
+		Non-survival: 11 instances
+###################################
+Day:	32
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 1 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 2 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 10 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 10 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 1 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 1 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 1 instances
+		HiFlow: 2 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 1 instances
+		Intubation: 10 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 1 instances
+		Non-survival: 10 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 2 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 10 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 10 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 2 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 10 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 10 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 2 instances
+		Intubation: 10 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 2 instances
+		Non-survival: 10 instances
+	Intubation	Vs	Non-survival	->	pval: 0.5899107822242773
+		Intubation: 10 instances
+		Non-survival: 10 instances
+###################################
+Day:	33
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 2 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 8 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 10 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 2 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 8 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 10 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 2 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 8 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 10 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 2 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 8 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 10 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 2 instances
+		Intubation: 8 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 2 instances
+		Non-survival: 10 instances
+	Intubation	Vs	Non-survival	->	pval: 0.8917862225238294
+		Intubation: 8 instances
+		Non-survival: 10 instances
+###################################
+Day:	34
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 1 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 8 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 10 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 1 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 8 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 10 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 1 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 8 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 10 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 1 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 8 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 10 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 1 instances
+		Intubation: 8 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 1 instances
+		Non-survival: 10 instances
+	Intubation	Vs	Non-survival	->	pval: 1.0
+		Intubation: 8 instances
+		Non-survival: 10 instances
+###################################
+Day:	35
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 1 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 8 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 10 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 1 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 8 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 10 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 1 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 8 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 10 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 1 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 8 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 10 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 1 instances
+		Intubation: 8 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 1 instances
+		Non-survival: 10 instances
+	Intubation	Vs	Non-survival	->	pval: 0.6460941955911188
+		Intubation: 8 instances
+		Non-survival: 10 instances
+###################################
+Day:	36
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 1 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 8 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 9 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 1 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 8 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 9 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 1 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 8 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 9 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 1 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 8 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 9 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 1 instances
+		Intubation: 8 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 1 instances
+		Non-survival: 9 instances
+	Intubation	Vs	Non-survival	->	pval: 0.691935041482162
+		Intubation: 8 instances
+		Non-survival: 9 instances
+###################################
+Day:	37
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 1 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 8 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 8 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 1 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 8 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 8 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 1 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 8 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 8 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 1 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 8 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 8 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 1 instances
+		Intubation: 8 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 1 instances
+		Non-survival: 8 instances
+	Intubation	Vs	Non-survival	->	pval: 0.7073754678329949
+		Intubation: 8 instances
+		Non-survival: 8 instances
+###################################
+Day:	38
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 1 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 7 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 7 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 1 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 7 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 7 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 1 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 7 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 7 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 1 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 7 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 7 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 1 instances
+		Intubation: 7 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 1 instances
+		Non-survival: 7 instances
+	Intubation	Vs	Non-survival	->	pval: 0.43033213414853244
+		Intubation: 7 instances
+		Non-survival: 7 instances
+###################################
+Day:	39
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 1 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 7 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 5 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 1 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 7 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 5 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 1 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 7 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 5 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 1 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 7 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 5 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 1 instances
+		Intubation: 7 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 1 instances
+		Non-survival: 5 instances
+	Intubation	Vs	Non-survival	->	pval: 0.6127619728958191
+		Intubation: 7 instances
+		Non-survival: 5 instances
+###################################
+Day:	40
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 1 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 7 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 4 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 1 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 7 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 4 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 1 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 7 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 4 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 1 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 7 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 4 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 1 instances
+		Intubation: 7 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 1 instances
+		Non-survival: 4 instances
+	Intubation	Vs	Non-survival	->	pval: 0.6202362098269236
+		Intubation: 7 instances
+		Non-survival: 4 instances
+###################################
+Day:	41
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 1 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 6 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 3 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 1 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 6 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 3 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 1 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 6 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 3 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 1 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 6 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 3 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 1 instances
+		Intubation: 6 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 1 instances
+		Non-survival: 3 instances
+	Intubation	Vs	Non-survival	->	pval: 1.0
+		Intubation: 6 instances
+		Non-survival: 3 instances
+###################################
+Day:	42
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 1 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 6 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 4 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 1 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 6 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 4 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 1 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 6 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 4 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 1 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 6 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 4 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 1 instances
+		Intubation: 6 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 1 instances
+		Non-survival: 4 instances
+	Intubation	Vs	Non-survival	->	pval: 0.8253387183449716
+		Intubation: 6 instances
+		Non-survival: 4 instances
+###################################
+Day:	43
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 1 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 5 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 4 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 1 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 5 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 4 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 1 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 5 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 4 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 1 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 5 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 4 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 1 instances
+		Intubation: 5 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 1 instances
+		Non-survival: 4 instances
+	Intubation	Vs	Non-survival	->	pval: 0.440686016488678
+		Intubation: 5 instances
+		Non-survival: 4 instances
+###################################
+Day:	44
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 1 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 3 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 4 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 1 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 3 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 4 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 1 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 3 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 4 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 1 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 3 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 4 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 1 instances
+		Intubation: 3 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 1 instances
+		Non-survival: 4 instances
+	Intubation	Vs	Non-survival	->	pval: 0.7162897505408428
+		Intubation: 3 instances
+		Non-survival: 4 instances
+###################################
+Day:	45
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 1 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 3 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 4 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 1 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 3 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 4 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 1 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 3 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 4 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 1 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 3 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 4 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 1 instances
+		Intubation: 3 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 1 instances
+		Non-survival: 4 instances
+	Intubation	Vs	Non-survival	->	pval: 0.5891544654500582
+		Intubation: 3 instances
+		Non-survival: 4 instances
+###################################
+Day:	46
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 1 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 3 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 4 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 1 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 3 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 4 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 1 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 3 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 4 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 1 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 3 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 4 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 1 instances
+		Intubation: 3 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 1 instances
+		Non-survival: 4 instances
+	Intubation	Vs	Non-survival	->	pval: 0.3680655063054846
+		Intubation: 3 instances
+		Non-survival: 4 instances
+###################################
+Day:	47
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 1 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 3 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 3 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 1 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 3 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 3 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 1 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 3 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 3 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 1 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 3 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 3 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 1 instances
+		Intubation: 3 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 1 instances
+		Non-survival: 3 instances
+	Intubation	Vs	Non-survival	->	pval: 0.6428348264908041
+		Intubation: 3 instances
+		Non-survival: 3 instances
+###################################
+Day:	49
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 0 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 3 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 0 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 0 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 3 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 0 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 0 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 3 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 0 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 0 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 3 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 0 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 0 instances
+		Intubation: 3 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 0 instances
+		Non-survival: 0 instances
+	Intubation	Vs	Non-survival	->	pval: nan
+		Intubation: 3 instances
+		Non-survival: 0 instances
+###################################
+Day:	52
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 0 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 1 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 1 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 0 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 1 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 1 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 0 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 1 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 1 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 0 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 1 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 1 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 0 instances
+		Intubation: 1 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 0 instances
+		Non-survival: 1 instances
+	Intubation	Vs	Non-survival	->	pval: nan
+		Intubation: 1 instances
+		Non-survival: 1 instances
+###################################
+Day:	54
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 0 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 1 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 1 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 0 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 1 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 1 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 0 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 1 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 1 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 0 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 1 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 1 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 0 instances
+		Intubation: 1 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 0 instances
+		Non-survival: 1 instances
+	Intubation	Vs	Non-survival	->	pval: nan
+		Intubation: 1 instances
+		Non-survival: 1 instances
+###################################
+Day:	56
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 0 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 1 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 1 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 0 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 1 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 1 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 0 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 1 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 1 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 0 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 1 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 1 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 0 instances
+		Intubation: 1 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 0 instances
+		Non-survival: 1 instances
+	Intubation	Vs	Non-survival	->	pval: nan
+		Intubation: 1 instances
+		Non-survival: 1 instances
+###################################
+Day:	57
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 0 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 1 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 1 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 0 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 1 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 1 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 0 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 1 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 1 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 0 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 1 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 1 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 0 instances
+		Intubation: 1 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 0 instances
+		Non-survival: 1 instances
+	Intubation	Vs	Non-survival	->	pval: nan
+		Intubation: 1 instances
+		Non-survival: 1 instances
+###################################
+Day:	60
+	Room air	Vs	Nasal canula	->	pval: nan
+		Room air: 0 instances
+		Nasal canula: 0 instances
+	Room air	Vs	NRM	->	pval: nan
+		Room air: 0 instances
+		NRM: 0 instances
+	Room air	Vs	CPAP-BPAP	->	pval: nan
+		Room air: 0 instances
+		CPAP-BPAP: 0 instances
+	Room air	Vs	HiFlow	->	pval: nan
+		Room air: 0 instances
+		HiFlow: 0 instances
+	Room air	Vs	Intubation	->	pval: nan
+		Room air: 0 instances
+		Intubation: 1 instances
+	Room air	Vs	Non-survival	->	pval: nan
+		Room air: 0 instances
+		Non-survival: 1 instances
+	Nasal canula	Vs	NRM	->	pval: nan
+		Nasal canula: 0 instances
+		NRM: 0 instances
+	Nasal canula	Vs	CPAP-BPAP	->	pval: nan
+		Nasal canula: 0 instances
+		CPAP-BPAP: 0 instances
+	Nasal canula	Vs	HiFlow	->	pval: nan
+		Nasal canula: 0 instances
+		HiFlow: 0 instances
+	Nasal canula	Vs	Intubation	->	pval: nan
+		Nasal canula: 0 instances
+		Intubation: 1 instances
+	Nasal canula	Vs	Non-survival	->	pval: nan
+		Nasal canula: 0 instances
+		Non-survival: 1 instances
+	NRM	Vs	CPAP-BPAP	->	pval: nan
+		NRM: 0 instances
+		CPAP-BPAP: 0 instances
+	NRM	Vs	HiFlow	->	pval: nan
+		NRM: 0 instances
+		HiFlow: 0 instances
+	NRM	Vs	Intubation	->	pval: nan
+		NRM: 0 instances
+		Intubation: 1 instances
+	NRM	Vs	Non-survival	->	pval: nan
+		NRM: 0 instances
+		Non-survival: 1 instances
+	CPAP-BPAP	Vs	HiFlow	->	pval: nan
+		CPAP-BPAP: 0 instances
+		HiFlow: 0 instances
+	CPAP-BPAP	Vs	Intubation	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Intubation: 1 instances
+	CPAP-BPAP	Vs	Non-survival	->	pval: nan
+		CPAP-BPAP: 0 instances
+		Non-survival: 1 instances
+	HiFlow	Vs	Intubation	->	pval: nan
+		HiFlow: 0 instances
+		Intubation: 1 instances
+	HiFlow	Vs	Non-survival	->	pval: nan
+		HiFlow: 0 instances
+		Non-survival: 1 instances
+	Intubation	Vs	Non-survival	->	pval: nan
+		Intubation: 1 instances
+		Non-survival: 1 instances
+###################################

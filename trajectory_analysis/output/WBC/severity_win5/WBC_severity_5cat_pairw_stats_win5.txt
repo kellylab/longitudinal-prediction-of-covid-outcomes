@@ -1,0 +1,1080 @@
+Day:	0
+	Room_air	Vs	Mild	->	pval: 0.29583825432270083
+		Room_air: 4 instances
+		Mild: 11 instances
+	Room_air	Vs	Severe	->	pval: 0.17790959498698244
+		Room_air: 4 instances
+		Severe: 5 instances
+	Room_air	Vs	Non-survival	->	pval: 0.2159249389401403
+		Room_air: 4 instances
+		Non-survival: 3 instances
+	Mild	Vs	Severe	->	pval: 0.25726365533130036
+		Mild: 11 instances
+		Severe: 5 instances
+	Mild	Vs	Non-survival	->	pval: 0.4362749288405292
+		Mild: 11 instances
+		Non-survival: 3 instances
+	Severe	Vs	Non-survival	->	pval: 0.6527828452619115
+		Severe: 5 instances
+		Non-survival: 3 instances
+###################################
+Day:	1
+	Room_air	Vs	Mild	->	pval: 0.7810200445028505
+		Room_air: 5 instances
+		Mild: 14 instances
+	Room_air	Vs	Severe	->	pval: 0.6891565167793516
+		Room_air: 5 instances
+		Severe: 9 instances
+	Room_air	Vs	Non-survival	->	pval: 0.9416529301610359
+		Room_air: 5 instances
+		Non-survival: 8 instances
+	Mild	Vs	Severe	->	pval: 0.46869074956546664
+		Mild: 14 instances
+		Severe: 9 instances
+	Mild	Vs	Non-survival	->	pval: 0.8376715033878004
+		Mild: 14 instances
+		Non-survival: 8 instances
+	Severe	Vs	Non-survival	->	pval: 0.38560142722497925
+		Severe: 9 instances
+		Non-survival: 8 instances
+###################################
+Day:	2
+	Room_air	Vs	Mild	->	pval: 0.9163591402734885
+		Room_air: 6 instances
+		Mild: 17 instances
+	Room_air	Vs	Severe	->	pval: 0.4557722265643639
+		Room_air: 6 instances
+		Severe: 13 instances
+	Room_air	Vs	Non-survival	->	pval: 0.5804203667959206
+		Room_air: 6 instances
+		Non-survival: 11 instances
+	Mild	Vs	Severe	->	pval: 0.47663984007119853
+		Mild: 17 instances
+		Severe: 13 instances
+	Mild	Vs	Non-survival	->	pval: 0.9812327659311414
+		Mild: 17 instances
+		Non-survival: 11 instances
+	Severe	Vs	Non-survival	->	pval: 0.6429392560602155
+		Severe: 13 instances
+		Non-survival: 11 instances
+###################################
+Day:	3
+	Room_air	Vs	Mild	->	pval: 0.9636416382773244
+		Room_air: 7 instances
+		Mild: 25 instances
+	Room_air	Vs	Severe	->	pval: 0.7779719191378374
+		Room_air: 7 instances
+		Severe: 15 instances
+	Room_air	Vs	Non-survival	->	pval: 0.8936685544499869
+		Room_air: 7 instances
+		Non-survival: 16 instances
+	Mild	Vs	Severe	->	pval: 0.7374391158992666
+		Mild: 25 instances
+		Severe: 15 instances
+	Mild	Vs	Non-survival	->	pval: 0.9042629021259767
+		Mild: 25 instances
+		Non-survival: 16 instances
+	Severe	Vs	Non-survival	->	pval: 0.8278914966146259
+		Severe: 15 instances
+		Non-survival: 16 instances
+###################################
+Day:	4
+	Room_air	Vs	Mild	->	pval: 0.6701440969087363
+		Room_air: 7 instances
+		Mild: 27 instances
+	Room_air	Vs	Severe	->	pval: 0.3550089265382509
+		Room_air: 7 instances
+		Severe: 19 instances
+	Room_air	Vs	Non-survival	->	pval: 0.7636669884025226
+		Room_air: 7 instances
+		Non-survival: 16 instances
+	Mild	Vs	Severe	->	pval: 0.5469307977965703
+		Mild: 27 instances
+		Severe: 19 instances
+	Mild	Vs	Non-survival	->	pval: 0.7919090771649311
+		Mild: 27 instances
+		Non-survival: 16 instances
+	Severe	Vs	Non-survival	->	pval: 0.7530832737222033
+		Severe: 19 instances
+		Non-survival: 16 instances
+###################################
+Day:	5
+	Room_air	Vs	Mild	->	pval: 0.5956684410237499
+		Room_air: 8 instances
+		Mild: 35 instances
+	Room_air	Vs	Severe	->	pval: 0.30640243473055906
+		Room_air: 8 instances
+		Severe: 24 instances
+	Room_air	Vs	Non-survival	->	pval: 0.4207566910542516
+		Room_air: 8 instances
+		Non-survival: 24 instances
+	Mild	Vs	Severe	->	pval: 0.5891109245316205
+		Mild: 35 instances
+		Severe: 24 instances
+	Mild	Vs	Non-survival	->	pval: 0.9139808915882691
+		Mild: 35 instances
+		Non-survival: 24 instances
+	Severe	Vs	Non-survival	->	pval: 0.8933720084736579
+		Severe: 24 instances
+		Non-survival: 24 instances
+###################################
+Day:	6
+	Room_air	Vs	Mild	->	pval: 0.7234383614203649
+		Room_air: 8 instances
+		Mild: 39 instances
+	Room_air	Vs	Severe	->	pval: 0.30704223649327966
+		Room_air: 8 instances
+		Severe: 27 instances
+	Room_air	Vs	Non-survival	->	pval: 0.34456236532569795
+		Room_air: 8 instances
+		Non-survival: 25 instances
+	Mild	Vs	Severe	->	pval: 0.3965397423605609
+		Mild: 39 instances
+		Severe: 27 instances
+	Mild	Vs	Non-survival	->	pval: 0.5089184159772984
+		Mild: 39 instances
+		Non-survival: 25 instances
+	Severe	Vs	Non-survival	->	pval: 0.9124978417128352
+		Severe: 27 instances
+		Non-survival: 25 instances
+###################################
+Day:	7
+	Room_air	Vs	Mild	->	pval: 0.1463224173855675
+		Room_air: 8 instances
+		Mild: 40 instances
+	Room_air	Vs	Severe	->	pval: 0.08337498679672806
+		Room_air: 8 instances
+		Severe: 28 instances
+	Room_air	Vs	Non-survival	->	pval: 0.02893364666081365
+		Room_air: 8 instances
+		Non-survival: 30 instances
+	Mild	Vs	Severe	->	pval: 0.3467538886708773
+		Mild: 40 instances
+		Severe: 28 instances
+	Mild	Vs	Non-survival	->	pval: 0.04179614167062181
+		Mild: 40 instances
+		Non-survival: 30 instances
+	Severe	Vs	Non-survival	->	pval: 0.39637378436222803
+		Severe: 28 instances
+		Non-survival: 30 instances
+###################################
+Day:	8
+	Room_air	Vs	Mild	->	pval: 0.11405596803264366
+		Room_air: 8 instances
+		Mild: 43 instances
+	Room_air	Vs	Severe	->	pval: 0.0401552356168848
+		Room_air: 8 instances
+		Severe: 31 instances
+	Room_air	Vs	Non-survival	->	pval: 0.017839356894920645
+		Room_air: 8 instances
+		Non-survival: 33 instances
+	Mild	Vs	Severe	->	pval: 0.20766478619023854
+		Mild: 43 instances
+		Severe: 31 instances
+	Mild	Vs	Non-survival	->	pval: 0.018102061884984807
+		Mild: 43 instances
+		Non-survival: 33 instances
+	Severe	Vs	Non-survival	->	pval: 0.3752588650247316
+		Severe: 31 instances
+		Non-survival: 33 instances
+###################################
+Day:	9
+	Room_air	Vs	Mild	->	pval: 0.055454250284882815
+		Room_air: 6 instances
+		Mild: 45 instances
+	Room_air	Vs	Severe	->	pval: 0.030523892622239552
+		Room_air: 6 instances
+		Severe: 31 instances
+	Room_air	Vs	Non-survival	->	pval: 0.01270427034402651
+		Room_air: 6 instances
+		Non-survival: 33 instances
+	Mild	Vs	Severe	->	pval: 0.35776953662445976
+		Mild: 45 instances
+		Severe: 31 instances
+	Mild	Vs	Non-survival	->	pval: 0.011282526819448557
+		Mild: 45 instances
+		Non-survival: 33 instances
+	Severe	Vs	Non-survival	->	pval: 0.18128042872051064
+		Severe: 31 instances
+		Non-survival: 33 instances
+###################################
+Day:	10
+	Room_air	Vs	Mild	->	pval: 0.09086427966365804
+		Room_air: 5 instances
+		Mild: 42 instances
+	Room_air	Vs	Severe	->	pval: 0.035663876031124385
+		Room_air: 5 instances
+		Severe: 34 instances
+	Room_air	Vs	Non-survival	->	pval: 0.00897831621581072
+		Room_air: 5 instances
+		Non-survival: 33 instances
+	Mild	Vs	Severe	->	pval: 0.33385220432294826
+		Mild: 42 instances
+		Severe: 34 instances
+	Mild	Vs	Non-survival	->	pval: 0.0017949906131623297
+		Mild: 42 instances
+		Non-survival: 33 instances
+	Severe	Vs	Non-survival	->	pval: 0.054207706874253865
+		Severe: 34 instances
+		Non-survival: 33 instances
+###################################
+Day:	11
+	Room_air	Vs	Mild	->	pval: 0.03624110843178795
+		Room_air: 4 instances
+		Mild: 41 instances
+	Room_air	Vs	Severe	->	pval: 0.02293449023451251
+		Room_air: 4 instances
+		Severe: 33 instances
+	Room_air	Vs	Non-survival	->	pval: 0.012708784694764235
+		Room_air: 4 instances
+		Non-survival: 32 instances
+	Mild	Vs	Severe	->	pval: 0.21106338361908505
+		Mild: 41 instances
+		Severe: 33 instances
+	Mild	Vs	Non-survival	->	pval: 0.0032143348068096353
+		Mild: 41 instances
+		Non-survival: 32 instances
+	Severe	Vs	Non-survival	->	pval: 0.12311701370428424
+		Severe: 33 instances
+		Non-survival: 32 instances
+###################################
+Day:	12
+	Room_air	Vs	Mild	->	pval: 0.010673532507481922
+		Room_air: 3 instances
+		Mild: 47 instances
+	Room_air	Vs	Severe	->	pval: 0.00908042947258026
+		Room_air: 3 instances
+		Severe: 36 instances
+	Room_air	Vs	Non-survival	->	pval: 0.007549560112392647
+		Room_air: 3 instances
+		Non-survival: 31 instances
+	Mild	Vs	Severe	->	pval: 0.4511522735544168
+		Mild: 47 instances
+		Severe: 36 instances
+	Mild	Vs	Non-survival	->	pval: 0.0070260318245412255
+		Mild: 47 instances
+		Non-survival: 31 instances
+	Severe	Vs	Non-survival	->	pval: 0.08267547674533961
+		Severe: 36 instances
+		Non-survival: 31 instances
+###################################
+Day:	13
+	Room_air	Vs	Mild	->	pval: 0.011980437832567546
+		Room_air: 3 instances
+		Mild: 47 instances
+	Room_air	Vs	Severe	->	pval: 0.011351503657714696
+		Room_air: 3 instances
+		Severe: 34 instances
+	Room_air	Vs	Non-survival	->	pval: 0.008310077058293244
+		Room_air: 3 instances
+		Non-survival: 28 instances
+	Mild	Vs	Severe	->	pval: 0.3864295560143921
+		Mild: 47 instances
+		Severe: 34 instances
+	Mild	Vs	Non-survival	->	pval: 0.0021205658057116567
+		Mild: 47 instances
+		Non-survival: 28 instances
+	Severe	Vs	Non-survival	->	pval: 0.05528333379887431
+		Severe: 34 instances
+		Non-survival: 28 instances
+###################################
+Day:	14
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 1 instances
+		Mild: 44 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 1 instances
+		Severe: 35 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 1 instances
+		Non-survival: 28 instances
+	Mild	Vs	Severe	->	pval: 0.33094195851457886
+		Mild: 44 instances
+		Severe: 35 instances
+	Mild	Vs	Non-survival	->	pval: 0.0003201057791705416
+		Mild: 44 instances
+		Non-survival: 28 instances
+	Severe	Vs	Non-survival	->	pval: 0.02688479311440584
+		Severe: 35 instances
+		Non-survival: 28 instances
+###################################
+Day:	15
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 1 instances
+		Mild: 43 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 1 instances
+		Severe: 33 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 1 instances
+		Non-survival: 27 instances
+	Mild	Vs	Severe	->	pval: 0.11837451525434779
+		Mild: 43 instances
+		Severe: 33 instances
+	Mild	Vs	Non-survival	->	pval: 0.00039799421706365176
+		Mild: 43 instances
+		Non-survival: 27 instances
+	Severe	Vs	Non-survival	->	pval: 0.06538643750905826
+		Severe: 33 instances
+		Non-survival: 27 instances
+###################################
+Day:	16
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 1 instances
+		Mild: 38 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 1 instances
+		Severe: 34 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 1 instances
+		Non-survival: 26 instances
+	Mild	Vs	Severe	->	pval: 0.35202643264460654
+		Mild: 38 instances
+		Severe: 34 instances
+	Mild	Vs	Non-survival	->	pval: 3.4389272298327494e-05
+		Mild: 38 instances
+		Non-survival: 26 instances
+	Severe	Vs	Non-survival	->	pval: 0.001916010933470222
+		Severe: 34 instances
+		Non-survival: 26 instances
+###################################
+Day:	17
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 1 instances
+		Mild: 29 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 1 instances
+		Severe: 32 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 1 instances
+		Non-survival: 26 instances
+	Mild	Vs	Severe	->	pval: 0.08831887491365921
+		Mild: 29 instances
+		Severe: 32 instances
+	Mild	Vs	Non-survival	->	pval: 4.347826221265517e-06
+		Mild: 29 instances
+		Non-survival: 26 instances
+	Severe	Vs	Non-survival	->	pval: 0.00043486125248467865
+		Severe: 32 instances
+		Non-survival: 26 instances
+###################################
+Day:	18
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 2 instances
+		Mild: 25 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 2 instances
+		Severe: 31 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 2 instances
+		Non-survival: 23 instances
+	Mild	Vs	Severe	->	pval: 0.08800751162927972
+		Mild: 25 instances
+		Severe: 31 instances
+	Mild	Vs	Non-survival	->	pval: 2.530925081389856e-06
+		Mild: 25 instances
+		Non-survival: 23 instances
+	Severe	Vs	Non-survival	->	pval: 0.0008880037771708101
+		Severe: 31 instances
+		Non-survival: 23 instances
+###################################
+Day:	19
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 1 instances
+		Mild: 24 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 1 instances
+		Severe: 32 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 1 instances
+		Non-survival: 22 instances
+	Mild	Vs	Severe	->	pval: 0.06481378717462012
+		Mild: 24 instances
+		Severe: 32 instances
+	Mild	Vs	Non-survival	->	pval: 3.6661920263164204e-06
+		Mild: 24 instances
+		Non-survival: 22 instances
+	Severe	Vs	Non-survival	->	pval: 0.00026808550058012937
+		Severe: 32 instances
+		Non-survival: 22 instances
+###################################
+Day:	20
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 1 instances
+		Mild: 22 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 1 instances
+		Severe: 30 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 1 instances
+		Non-survival: 23 instances
+	Mild	Vs	Severe	->	pval: 0.0708912177246748
+		Mild: 22 instances
+		Severe: 30 instances
+	Mild	Vs	Non-survival	->	pval: 6.558264198489422e-06
+		Mild: 22 instances
+		Non-survival: 23 instances
+	Severe	Vs	Non-survival	->	pval: 0.00031999826779113453
+		Severe: 30 instances
+		Non-survival: 23 instances
+###################################
+Day:	21
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 1 instances
+		Mild: 18 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 1 instances
+		Severe: 27 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 1 instances
+		Non-survival: 19 instances
+	Mild	Vs	Severe	->	pval: 0.10987205142111504
+		Mild: 18 instances
+		Severe: 27 instances
+	Mild	Vs	Non-survival	->	pval: 3.3495672654415035e-05
+		Mild: 18 instances
+		Non-survival: 19 instances
+	Severe	Vs	Non-survival	->	pval: 0.002897922812067063
+		Severe: 27 instances
+		Non-survival: 19 instances
+###################################
+Day:	22
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 1 instances
+		Mild: 16 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 1 instances
+		Severe: 28 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 1 instances
+		Non-survival: 18 instances
+	Mild	Vs	Severe	->	pval: 0.10733415506493219
+		Mild: 16 instances
+		Severe: 28 instances
+	Mild	Vs	Non-survival	->	pval: 0.0002218882121253716
+		Mild: 16 instances
+		Non-survival: 18 instances
+	Severe	Vs	Non-survival	->	pval: 0.004253654711246288
+		Severe: 28 instances
+		Non-survival: 18 instances
+###################################
+Day:	23
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 13 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 26 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 14 instances
+	Mild	Vs	Severe	->	pval: 0.45636712937529966
+		Mild: 13 instances
+		Severe: 26 instances
+	Mild	Vs	Non-survival	->	pval: 0.0006236972944091866
+		Mild: 13 instances
+		Non-survival: 14 instances
+	Severe	Vs	Non-survival	->	pval: 0.000600782433328036
+		Severe: 26 instances
+		Non-survival: 14 instances
+###################################
+Day:	24
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 11 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 25 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 13 instances
+	Mild	Vs	Severe	->	pval: 0.20385402653979312
+		Mild: 11 instances
+		Severe: 25 instances
+	Mild	Vs	Non-survival	->	pval: 0.000508586601400961
+		Mild: 11 instances
+		Non-survival: 13 instances
+	Severe	Vs	Non-survival	->	pval: 0.0005686265373045569
+		Severe: 25 instances
+		Non-survival: 13 instances
+###################################
+Day:	25
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 8 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 25 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 12 instances
+	Mild	Vs	Severe	->	pval: 0.34444139535071727
+		Mild: 8 instances
+		Severe: 25 instances
+	Mild	Vs	Non-survival	->	pval: 0.0013543619548411403
+		Mild: 8 instances
+		Non-survival: 12 instances
+	Severe	Vs	Non-survival	->	pval: 0.0002615966909348897
+		Severe: 25 instances
+		Non-survival: 12 instances
+###################################
+Day:	26
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 9 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 21 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 11 instances
+	Mild	Vs	Severe	->	pval: 0.497188706636542
+		Mild: 9 instances
+		Severe: 21 instances
+	Mild	Vs	Non-survival	->	pval: 0.0038759237875940823
+		Mild: 9 instances
+		Non-survival: 11 instances
+	Severe	Vs	Non-survival	->	pval: 0.002250226568085791
+		Severe: 21 instances
+		Non-survival: 11 instances
+###################################
+Day:	27
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 8 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 18 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 11 instances
+	Mild	Vs	Severe	->	pval: 0.6768701221053743
+		Mild: 8 instances
+		Severe: 18 instances
+	Mild	Vs	Non-survival	->	pval: 0.013162418634777863
+		Mild: 8 instances
+		Non-survival: 11 instances
+	Severe	Vs	Non-survival	->	pval: 0.009735934159655766
+		Severe: 18 instances
+		Non-survival: 11 instances
+###################################
+Day:	28
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 6 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 17 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 12 instances
+	Mild	Vs	Severe	->	pval: 0.6490437529262907
+		Mild: 6 instances
+		Severe: 17 instances
+	Mild	Vs	Non-survival	->	pval: 0.02175403704154494
+		Mild: 6 instances
+		Non-survival: 12 instances
+	Severe	Vs	Non-survival	->	pval: 0.03539121888863175
+		Severe: 17 instances
+		Non-survival: 12 instances
+###################################
+Day:	29
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 6 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 15 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 12 instances
+	Mild	Vs	Severe	->	pval: 0.9070384808036948
+		Mild: 6 instances
+		Severe: 15 instances
+	Mild	Vs	Non-survival	->	pval: 0.013066472830528727
+		Mild: 6 instances
+		Non-survival: 12 instances
+	Severe	Vs	Non-survival	->	pval: 0.006749656441443116
+		Severe: 15 instances
+		Non-survival: 12 instances
+###################################
+Day:	30
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 3 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 15 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 11 instances
+	Mild	Vs	Severe	->	pval: 0.343252562436031
+		Mild: 3 instances
+		Severe: 15 instances
+	Mild	Vs	Non-survival	->	pval: 0.27575784782750934
+		Mild: 3 instances
+		Non-survival: 11 instances
+	Severe	Vs	Non-survival	->	pval: 0.012700860388137926
+		Severe: 15 instances
+		Non-survival: 11 instances
+###################################
+Day:	31
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 1 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 12 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 11 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 1 instances
+		Severe: 12 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 1 instances
+		Non-survival: 11 instances
+	Severe	Vs	Non-survival	->	pval: 0.028898088924363848
+		Severe: 12 instances
+		Non-survival: 11 instances
+###################################
+Day:	32
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 1 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 12 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 10 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 1 instances
+		Severe: 12 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 1 instances
+		Non-survival: 10 instances
+	Severe	Vs	Non-survival	->	pval: 0.027179886800582677
+		Severe: 12 instances
+		Non-survival: 10 instances
+###################################
+Day:	33
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 10 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 10 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 10 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 10 instances
+	Severe	Vs	Non-survival	->	pval: 0.10410988966022681
+		Severe: 10 instances
+		Non-survival: 10 instances
+###################################
+Day:	34
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 9 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 10 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 9 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 10 instances
+	Severe	Vs	Non-survival	->	pval: 0.15304188415882009
+		Severe: 9 instances
+		Non-survival: 10 instances
+###################################
+Day:	35
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 9 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 10 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 9 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 10 instances
+	Severe	Vs	Non-survival	->	pval: 0.17790959498698244
+		Severe: 9 instances
+		Non-survival: 10 instances
+###################################
+Day:	36
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 9 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 9 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 9 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 9 instances
+	Severe	Vs	Non-survival	->	pval: 0.331387096247615
+		Severe: 9 instances
+		Non-survival: 9 instances
+###################################
+Day:	37
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 9 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 8 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 9 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 8 instances
+	Severe	Vs	Non-survival	->	pval: 0.5966405346973952
+		Severe: 9 instances
+		Non-survival: 8 instances
+###################################
+Day:	38
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 8 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 7 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 8 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 7 instances
+	Severe	Vs	Non-survival	->	pval: 0.6854434826775221
+		Severe: 8 instances
+		Non-survival: 7 instances
+###################################
+Day:	39
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 8 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 5 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 8 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 5 instances
+	Severe	Vs	Non-survival	->	pval: 0.8262002033788082
+		Severe: 8 instances
+		Non-survival: 5 instances
+###################################
+Day:	40
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 8 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 4 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 8 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 4 instances
+	Severe	Vs	Non-survival	->	pval: 0.5522142220341504
+		Severe: 8 instances
+		Non-survival: 4 instances
+###################################
+Day:	41
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 7 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 3 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 7 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 3 instances
+	Severe	Vs	Non-survival	->	pval: 0.8197075378297883
+		Severe: 7 instances
+		Non-survival: 3 instances
+###################################
+Day:	42
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 7 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 4 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 7 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 4 instances
+	Severe	Vs	Non-survival	->	pval: 0.8497689707092216
+		Severe: 7 instances
+		Non-survival: 4 instances
+###################################
+Day:	43
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 6 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 4 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 6 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 4 instances
+	Severe	Vs	Non-survival	->	pval: 0.9151060344205056
+		Severe: 6 instances
+		Non-survival: 4 instances
+###################################
+Day:	44
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 4 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 4 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 4 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 4 instances
+	Severe	Vs	Non-survival	->	pval: 0.6650055421020291
+		Severe: 4 instances
+		Non-survival: 4 instances
+###################################
+Day:	45
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 4 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 4 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 4 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 4 instances
+	Severe	Vs	Non-survival	->	pval: 0.47048642205878966
+		Severe: 4 instances
+		Non-survival: 4 instances
+###################################
+Day:	46
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 4 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 4 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 4 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 4 instances
+	Severe	Vs	Non-survival	->	pval: 0.6650055421020291
+		Severe: 4 instances
+		Non-survival: 4 instances
+###################################
+Day:	47
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 4 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 3 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 4 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 3 instances
+	Severe	Vs	Non-survival	->	pval: 0.376759117811582
+		Severe: 4 instances
+		Non-survival: 3 instances
+###################################
+Day:	49
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 3 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 0 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 3 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 0 instances
+	Severe	Vs	Non-survival	->	pval: nan
+		Severe: 3 instances
+		Non-survival: 0 instances
+###################################
+Day:	52
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 1 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 1 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 1 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 1 instances
+	Severe	Vs	Non-survival	->	pval: nan
+		Severe: 1 instances
+		Non-survival: 1 instances
+###################################
+Day:	54
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 1 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 1 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 1 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 1 instances
+	Severe	Vs	Non-survival	->	pval: nan
+		Severe: 1 instances
+		Non-survival: 1 instances
+###################################
+Day:	56
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 1 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 1 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 1 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 1 instances
+	Severe	Vs	Non-survival	->	pval: nan
+		Severe: 1 instances
+		Non-survival: 1 instances
+###################################
+Day:	57
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 1 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 1 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 1 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 1 instances
+	Severe	Vs	Non-survival	->	pval: nan
+		Severe: 1 instances
+		Non-survival: 1 instances
+###################################
+Day:	60
+	Room_air	Vs	Mild	->	pval: nan
+		Room_air: 0 instances
+		Mild: 0 instances
+	Room_air	Vs	Severe	->	pval: nan
+		Room_air: 0 instances
+		Severe: 1 instances
+	Room_air	Vs	Non-survival	->	pval: nan
+		Room_air: 0 instances
+		Non-survival: 1 instances
+	Mild	Vs	Severe	->	pval: nan
+		Mild: 0 instances
+		Severe: 1 instances
+	Mild	Vs	Non-survival	->	pval: nan
+		Mild: 0 instances
+		Non-survival: 1 instances
+	Severe	Vs	Non-survival	->	pval: nan
+		Severe: 1 instances
+		Non-survival: 1 instances
+###################################
