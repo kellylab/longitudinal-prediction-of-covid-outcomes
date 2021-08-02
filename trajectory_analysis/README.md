@@ -43,7 +43,7 @@ Scripts to analyze and plot the trajectory of clinical data (IgG EC50s, White Bl
 #### ethnicity_category.xlsx</p>
 > <p>Hispanics(1), Non-hispanics(0), Unknown(.)</p>
 #### oxygensuppl_category.xlsx
-> <pColumns describe the different oxygenation supply administered (1: administered treatment; 0: non-administered treatment)</p>
+> <p>Columns describe the different oxygenation supply administered (1: administered treatment; 0: non-administered treatment)</p>
 #### race_category.xlsx
 > <p>Black(1), White(2), Other(3), Unknown(.)</p>
 #### severity_category.xlsx
@@ -78,36 +78,40 @@ Scripts to analyze and plot the trajectory of clinical data (IgG EC50s, White Bl
 - variable_histogram_patients_per_readoutDays: Number of days and samples (patients) where variable was measured during hospitalization
 
 ### severity_win5
-- variable_lineplot_severity_5cat_win5_mean.pdf
-- variable_severity_5cat_pairw_stats_win5_pvalcor.xlsx
-- variable_lineplot_severity_5cat_win5_median.pdf
-- variable_severity_5cat_window5.xlsx
-- variable_severity_5cat_pairw_stats_win5.txt
-- severity_5cat_boxplot_win5
+> <p>Hospitalized patients categorized into: Room air, Mild, Severe, Non-survivor</p>
+- variable_severity_5cat_window5.xlsx: Variable value (-log10 transformed, averaged using a 5 day sliding window) for each hospitalized day at any given hospitalization day (post-symptom-onset)
+- variable_lineplot_severity_5cat_win5_mean.pdf: Trajectory (mean) of the variable during hospitalization for the different groups of patients
+- variable_lineplot_severity_5cat_win5_median.pdf: Trajectory (median) of the variable during hospitalization for the different groups of patients
+- variable_severity_5cat_pairw_stats_win5.txt: All against all pairwise comparison at any given day
+- variable_severity_5cat_pairw_stats_win5_pvalcor.xlsx: Summary of the pairwise comparison where the p-value was corrected for multiple comparison
+- severity_5cat_boxplot_win5: Boxplot at any given day.
 
 ### survival_win5
-- variable_survival.xlsx
-- variable_survival_lineplot_trajectory_win5_median.pdf
-- variable_survival_boxplot_win5
-- variable_survival_pairw_stats_win5.txt
-- variable_survival_lineplot_trajectory_win5_mean.pdf
-- variable_survival_pairw_stats_win5_pvalcor.xlsx
+> <p>Hospitalized patients categorized into: Survivors & Non-survivors</p>
+- variable_survival.xlsx: Variable value (-log10 transformed, averaged using a 5 day sliding window) for each hospitalized day at any given hospitalization day (post-symptom-onset)
+- variable_survival_lineplot_trajectory_win5_mean.pdf: Trajectory (mean) of the variable during hospitalization for the different groups of patients
+- variable_survival_lineplot_trajectory_win5_median.pdf: Trajectory (median) of the variable during hospitalization for the different groups of patients
+- variable_survival_pairw_stats_win5.txt: All against all pairwise comparison at any given day
+- variable_survival_pairw_stats_win5_pvalcor.xlsx: Summary of the pairwise comparison where the p-value was corrected for multiple comparison
+- variable_survival_boxplot_win5: Boxplot at any given day.
 
 ### ethnicity_win5
-- ethinicity_boxplot_win5
-- variable_ethnicity_pairw_stats_win5_pvalcor.xlsx
-- variable_lineplot_ethnicity_3cat_win5_mean.pdf
-- variable_ethnicity_pairw_stats_win5.txt
-- variable_ethnicity_win5.xlsx
-- variable_lineplot_ethnicity_3cat_win5_median.pdf
+> <p>Hospitalized patients categorized into: Hispanic, Non-hispanic & Unknown</p>
+- variable_ethnicity_win5.xlsx: Variable value (-log10 transformed, averaged using a 5 day sliding window) for each hospitalized day at any given hospitalization day (post-symptom-onset)
+- variable_lineplot_ethnicity_3cat_win5_mean.pdf: Trajectory (mean) of the variable during hospitalization for the different groups of patients
+- variable_lineplot_ethnicity_3cat_win5_median.pdf: Trajectory (median) of the variable during hospitalization for the different groups of patients
+- variable_ethnicity_pairw_stats_win5.txt: All against all pairwise comparison at any given day
+- variable_ethnicity_pairw_stats_win5_pvalcor.xlsx: Summary of the pairwise comparison where the p-value was corrected for multiple comparison
+- ethinicity_boxplot_win5: Boxplot at any given day.
 
 ### race_win5
-- ethinicity_boxplot_win5
-- variable_lineplot_race_win5_median.pdf
-- variable_race_pairw_stats_win5_pvalcor.xlsx
-- variable_lineplot_race_win5_mean.pdf
-- variable_race_pairw_stats_win5.txt
-- variable_race_win5.xlsx
+> <p>Hospitalized patients categorized into: Black, White & Other</p>
+- variable_race_win5.xlsx: Variable value (-log10 transformed, averaged using a 5 day sliding window) for each hospitalized day at any given hospitalization day (post-symptom-onset)
+- variable_lineplot_race_win5_mean.pdf: Trajectory (mean) of the variable during hospitalization for the different groups of patients
+- variable_lineplot_race_win5_median.pdf: Trajectory (median) of the variable during hospitalization for the different groups of patients
+- variable_race_pairw_stats_win5.txt: All against all pairwise comparison at any given day
+- variable_race_pairw_stats_win5_pvalcor.xlsx: Summary of the pairwise comparison where the p-value was corrected for multiple comparison
+- ethinicity_boxplot_win5: Boxplot at any given day.
 
 ### time_plot[_win5]
 > <p>Trajectory of a given variable during hospitalization for each patient</p>
